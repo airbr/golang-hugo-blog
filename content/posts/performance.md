@@ -12,6 +12,7 @@ tags:
    - Bash
    - Unix
    - Reporting
+show_reading_time: true
 ---
 
 # Web Performance is good (and can be fun)

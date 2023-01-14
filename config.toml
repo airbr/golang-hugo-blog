@@ -2,10 +2,12 @@ baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Morgan's blog"
 theme = 'ananke'
-
+show_reading_time = true
 [params]
   body_classes = "helvetica bg-near-white"
-
+[[params.ananke_socials]]
+  name = "github"
+  url = "https://github.com/airbr" 
 [menu]
 [[menu.main]]
   identifier = 'posts'
@@ -23,4 +25,5 @@ theme = 'ananke'
   weight = -110
   [menu.main.params]
     class = 'highlight-menu-item'
+    
     
