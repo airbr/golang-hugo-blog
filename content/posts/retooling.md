@@ -1,5 +1,5 @@
 ---
-title: "Retooling"
+title: "Learning ReactJS && JavaScript generally"
 date: 2022-10-17T8:00:00-08:00
 draft: false
 tags: 
