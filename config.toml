@@ -1,0 +1,23 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Morgan's blog"
+theme = 'ananke'
+
+[menu]
+[[menu.main]]
+  identifier = 'posts'
+  name = 'posts'
+  pre = "<i class='fa fa-heart'></i>"
+  url = '/posts/'
+  weight = -110
+  [menu.main.params]
+    class = 'highlight-menu-item'
+[[menu.main]]
+  identifier = 'about'
+  name = 'about'
+  pre = "<i class='fa fa-heart'></i>"
+  url = '/about/'
+  weight = -110
+  [menu.main.params]
+    class = 'highlight-menu-item'
+    
