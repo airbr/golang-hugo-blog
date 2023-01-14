@@ -2,6 +2,7 @@
 title: "Learning ReactJS && JavaScript generally"
 date: 2022-10-17T8:00:00-08:00
 draft: false
+show_reading_time: true
 tags: 
    - Learn X in Y Minutes
    - JavaScript Garden
