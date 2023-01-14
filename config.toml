@@ -3,6 +3,9 @@ languageCode = "en-us"
 title = "Morgan's blog"
 theme = 'ananke'
 
+[params]
+  body_classes = "helvetica bg-near-white"
+
 [menu]
 [[menu.main]]
   identifier = 'posts'
