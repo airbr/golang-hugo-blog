@@ -2,6 +2,7 @@
 title: "GitHub Mentoring"
 date: 2021-02-12T12:00:00-08:00
 draft: false
+show_reading_time: true
 tags: 
     - 2020
     - github

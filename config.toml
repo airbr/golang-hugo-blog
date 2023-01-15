@@ -5,9 +5,11 @@ theme = 'ananke'
 show_reading_time = true
 [params]
   body_classes = "helvetica bg-near-white"
+
 [[params.ananke_socials]]
   name = "github"
   url = "https://github.com/airbr" 
+
 [[params.ananke_socials]]
 name = "mastodon"
 url = "https://subdued.social/@morganm"
@@ -17,6 +19,8 @@ rel = "me noopener"
 name = "linkedin"
 url = "https://www.linkedin.com/in/mmurrah/"
 rel = "me noopener"
+share = false
+
 [[params.ananke_socials]]
 name = "slack"
 url = "https://www.bellingham.codes/"

@@ -2,6 +2,7 @@
 title: "Paring down with Parcel.js"
 date: 2021-06-11T12:00:00-08:00
 draft: false
+show_reading_time: true
 tags: 
     - Parcel.js
     - Personal website

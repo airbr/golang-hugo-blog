@@ -2,6 +2,7 @@
 title: "Playwright: My intro"
 date: 2022-08-13T12:00:00-08:00
 draft: false
+show_reading_time: true
 tags: 
     - Playwright
     - E2E
