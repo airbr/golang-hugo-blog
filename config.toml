@@ -3,6 +3,10 @@ languageCode = "en-us"
 title = "Morgan's blog"
 theme = 'ananke'
 show_reading_time = true
+
+Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
+enableRobotsTXT = true
+
 [params]
   body_classes = "helvetica bg-near-white"
 
