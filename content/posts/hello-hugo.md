@@ -10,8 +10,11 @@ tags:
     - hugo
     - developer
     - hexo
+    - 2023
 ---
+# Update in 2023
 
+### This blog has been updated and ported to a new theme and optimized.
 ## Introduction to my new blog
 
 Hello. This is the first blog post on my deceptively simple new Hugo blog.  I am using the [Cactus Theme on Github](https://github.com/monkeyWzr/hugo-theme-cactus) with just a few modifications.
