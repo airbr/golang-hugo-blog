@@ -14,6 +14,8 @@ tags:
    - Playwright
    - Tailwind
    - Svelte
+read_more_copy: Read more about JavaScript Resources...
+
 ---
 
 I have some time to retool and reconfigure my knowledge before [being available to work again in December of this year](https://www.linkedin.com/in/mmurrah/). I have a list and order in which I plan to consult these amazing resources about programming. I have over five years of experience but there is a lot of low hanging fruit to gain by starting from some fundamentals: 

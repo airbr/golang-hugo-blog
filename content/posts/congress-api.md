@@ -10,6 +10,8 @@ tags:
     - Bills
     - Congress.gov
     - Congress.gov API
+read_more_copy: Read more about Congress.Gov API...
+
 ---
 
 ![](/congress.png)

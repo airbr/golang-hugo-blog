@@ -6,5 +6,4 @@ description: "programming topics mainly"
 # cascade:
 featured_image: '/acidball.jpeg'
 #   featured_image: '/images/gohugo-default-sample-hero-image.jpg'
-
 ---

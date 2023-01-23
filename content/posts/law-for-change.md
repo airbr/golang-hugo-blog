@@ -15,4 +15,6 @@ tags:
 
 Per Page 72 -- I am so proud!
 
+The charity I helped start has been going well and alive for over a decade. I am so happy and excited to share to people the stories of Law For Change:
+
 ![](/student-achievements.png)

@@ -13,6 +13,8 @@ tags:
    - Unix
    - Reporting
 show_reading_time: true
+read_more_copy: Read more about Web Performance...
+
 ---
 
 # Web Performance is good (and can be fun)
