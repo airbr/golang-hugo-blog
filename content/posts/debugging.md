@@ -18,7 +18,7 @@ This article has:
 - An Ode to Software Bugs, a description of software bugs and me
 - Commentary on the Pocket Guide to Debugging by Julia Evans
 
-This article is intended to a story about my own experiences with software bugs and reading this zine.
+This article is intended to be a story about my own experiences with software bugs and reading this zine.
 
 More than just fixing a particular bug, or knowing technical skills, Debugging is a virtue and evergreen skill for any developer so maybe this helps someone. 
 
