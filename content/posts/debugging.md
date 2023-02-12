@@ -32,7 +32,7 @@ I have seen and dealt with my share of bugs in software and web development. Som
 
 I have seen bugs in production that affected real users which raised my anxiety considerably. I have seen bugs in QA where it was caught by another human or a test, doing its job. I have seen bugs in development many times.
 
-> One of the things that many people don't understand about development is that until you get the thing working you basically live in a broken, incomplete environment. In development you are often staring at something broken right until the moment you finally click it all into place and it works and maybe the tests all pass. I make a conscious point of using websites I work on in production to remind myself that everything is not always broken or incomplete like it can feel in development. 
+> One of the things that many people don't understand about development is that until you get the thing working you basically live in a broken, incomplete environment. In development you are often staring at something broken right until the moment you finally click it all into place and it works and maybe the tests all pass. I make a conscious point of using websites I work on in production as a regular user to remind myself that everything is not always broken or incomplete like it can feel in development. 
 
 The question is not can we prevent all bugs - you will assuredly write some errors and bugs - it is a question of how severe those bugs are and how they affect other people and what measures are in place to prevent to mitigate them. This is sometimes answered by having a QA department, or automated tests, but it will never take away the reality of living among the bugs as a developer in your development environment.
 
