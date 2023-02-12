@@ -113,5 +113,5 @@ From the Table of Contents on the website you can get a flavor of what the strat
 
 ## Ready to Debug 
 
-With my experience reading this Zine, I felt moved and passionate. I have a new leash on life, like the wanderer above the sea of fog, able to look out past the bugs. I hope you feel this way too.
+With my experience reading this Zine, I felt better equipped. I have a new look on development life, like the wanderer above the sea of fog, able to look out past the bugs that may come. I hope you feel this way too.
 
