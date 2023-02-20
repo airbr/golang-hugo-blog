@@ -27,14 +27,8 @@ Check out [The Pocket Guide to Debugging](https://wizardzines.com/zines/debuggin
 # An ode to software bugs 
 
 ![A wanderer above the Sea of Fog](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Caspar_David_Friedrich_-_Wanderer_above_the_sea_of_fog.jpg/800px-Caspar_David_Friedrich_-_Wanderer_above_the_sea_of_fog.jpg)
-
-I have seen and dealt with my share of bugs in software and web development. Some bugs I created and some were caused by others. Some issues had simple answers and some confounded me for days.
-
-I have seen bugs in production that affected real users which raised my anxiety considerably. I have seen bugs in QA where it was caught by another human or a test, doing its job. I have seen bugs in development many times.
-
-> One of the things that many people don't understand about development is that until you get the thing working you basically live in a broken, incomplete environment. In development you are often staring at something broken right until the moment you finally click it all into place and it works and maybe the tests all pass. I make a conscious point of using websites I work on in production as a regular user to remind myself that everything is not always broken or incomplete like it can feel in development. 
-
-The question is not can we prevent all bugs - you will assuredly write some errors and bugs - it is a question of how severe those bugs are and how they affect other people and what measures are in place to prevent to mitigate them. This is sometimes answered by having a QA department, or automated tests, but it will never take away the reality of living among the bugs as a developer in your development environment.
+ 
+The question is not can we prevent all bugs - you will assuredly write some errors and bugs - it is a question of how severe those bugs are and how they affect other people and what measures are in place to prevent to mitigate them. This is sometimes answered by having a QA department, or automated tests, but it will never take away the reality of living among the bugs as a developer in your development environment occasionally you will experience bugs that you have to fix or workaround.
 
 One of the first arts of living with bugs is **segmentation**: making sure that any errors that do happen are limited in scope and handled gracefully. There are rankings and tiers of bugs, because we recognize their inevitability. Luckily Ive never experienced a P0 or a total showstopping bug.
 
@@ -44,7 +38,7 @@ It is in this foggy and buggy development state - a interim state, full of possi
 
 I think, at a core emotional level, the worst part about a software bug is if you are faced with explaining to someone, maybe a superior at your workplace, that you (the expert in the situation) don't know what is going on.
 
-Even when you are a seasoned expert who has fixed many things in the past it is still a bad feeling when you don't understand the bug. Sometimes even when you are using tools like Google and trying things, it feels like a random scattered practice.
+Even when you are a seasoned expert who has fixed many things in the past it may still feel like a bad feeling when you don't understand the bug. Sometimes even when you are using tools like Google and trying things, it feels like a random scattered practice.
 
 Recently, I found something that I think helps me organize my thinking and practice so that I never feel like I don't know what is going on. It is a wonderful feeling.
 

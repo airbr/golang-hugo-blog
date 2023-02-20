@@ -1,0 +1,23 @@
+<footer class="{{ .Site.Params.background_color_class | default "bg-black" }} bottom-0 w-100 pa3" role="contentinfo">
+  <div class="flex justify-between">
+  <a class="f4 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="{{ .Site.Home.Permalink }}" >
+    &copy; {{ with .Site.Copyright | default .Site.Title }} {{ . | safeHTML }} {{ now.Format "2006"}} {{ end }}
+  </a>
+    <div>{{ partial "social-follow.html" . }}</div>
+  </div>
+  <script>
+    (function () {
+      var script = document.createElement('script');
+      script.src =
+        'https://unpkg.com/web-vitals@3/dist/web-vitals.attribution.iife.js';
+      script.onload = function () {
+        // When loading `web-vitals` using a classic script, all the public
+        // methods can be found on the `webVitals` global namespace.
+        webVitals.onCLS(console.log);
+        webVitals.onFID(console.log);
+        webVitals.onLCP(console.log);
+      };
+      document.head.appendChild(script);
+    })();
+  </script>
+</footer>
