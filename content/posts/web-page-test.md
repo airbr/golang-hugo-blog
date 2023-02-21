@@ -1,6 +1,6 @@
 ---
 title: "WebPageTest & First Consultation"
-date: 2023-02-22T8:00:00-08:00
+date: 2023-02-24T8:00:00-08:00
 draft: true
 tags: 
    - Testing
@@ -15,7 +15,7 @@ read_more_copy: Read more about using WebPageTest...
 
 This article is a real world story about improving a websites performance and how I got there.
  
-1. I ran tests with several initial tools and skimmed the results. The tool I relied upon was WebPageTest and with it I diagnosed a Largest Contentful Paint (LCP) issue and ran experiments on a page. 
+1. I ran tests with several initial tools and skimmed the results. The tool I relied upon the most was WebPageTest and with it I diagnosed a Largest Contentful Paint (LCP) issue and ran experiments on a page. 
 
 2. Using a hero image with *smaller* dimensions and file size that are more appropriate for the viewport and device can make a **big** difference to LCP. Preloading can also help. 
 
@@ -23,9 +23,9 @@ This article is a real world story about improving a websites performance and ho
 
 ## On my Performance Journey...
 
-In December I published a [blog about Web Performance](/posts/performance) and since then I have continued learning.
+In December I published an [introductory blog about Web Performance](/posts/performance) and since then I have continued learning.
 
-When I started this journey I was running tests from local npm installations with Lighthouse, Sitespeed and Yellow Lab Tools. I was not sure about my ability to organize the resulting output and where to go next.
+When I started this journey I was running tests from local npm installations with Lighthouse, Sitespeed and Yellow Lab Tools. I also did one off Lighthouse tests in the browser with DevTools. I was not sure about my ability to organize the resulting output and where to go next.
 
 I later found a number of online services including SpeedCurve, DebugBear and WebPageTest (WPT). All of them had awesome tooling and UX aspects to them. All of them felt like thousands of hours of hard work went into making them great. However, WPT seemed the sharpest tool for what I was to do so I have invested the most time with it. 
 
@@ -43,9 +43,9 @@ WPT Pro costs < $20 a month. With Pro you get Bulk Tests, API access and Experim
 
 ## The Test Subject: A Non Profit
 
-I am an official tech volunteer for a not-for-profit in New Zealand. The target demographic for the website includes every resident and citizen of New Zealand across the world as well as international supporters (mainly for those who can vote in New Zealand elections). 
+I am an official tech volunteer for a not-for-profit in New Zealand. The target demographic for the website includes every resident and citizen of New Zealand across the world as well as international supporters. 
 
-> The thought crossed my mind to test the front page of the organization just to see how it goes. And so I began...
+The thought crossed my mind to test the front page of the organization just to see how it goes. And so I began...
 
 First, I kicked off a local Lighthouse test to get a sense of anything immediate:
 
@@ -80,21 +80,21 @@ This appealed to me because it would test:
 
 The tests started to roll in. There was a lot of information and graphs and things to consider but one thing was clear: the LCP time was having serious issues. On the test it was taking more than 15 seconds to load, and visually watching the filmstrip it was clear what visually was taking so long to load.
 
-With this context I discovered what seemed to be the cause: The LCP Image was being included via inline CSS, had approx 6720 x 4480 dimensions and was 902Kb in size! 
+With this context I discovered what seemed to be the cause: The LCP Image was had 6720 x 4480 dimensions and was 902Kb in size! 
 
 However, I didn't stop there- I pursued further optimization by running another round of tests with a preload experiment. Even with the massive image on a mobile phone preloading the image improved the LCP time by more than 5 seconds by preloading the image!
 
 ## Deploy the information: results and filmstrips
 
-The LCP Image seemed to be a problem from the very first test results I received. However, it was with WebPageTest's features that I was really able to gather the information in a way to make an impression. I shared the WebPageTest results in the organizations Slack with an introduction as to what they meant and why they were important. I just linked the test result and a beautiful visual of the test result unfurled.
+The LCP Image seemed to be a problem from the very first test results I received from the other testing services. However, it was with WebPageTest's features that I was really able to gather the information in a way to make an impression. I shared the WebPageTest results in the organizations Slack with an introduction as to what they meant and why they were important. I just linked the test result and a beautiful visual of the test result unfurled.
 
 Additionally, showing the filmstrip to show the effect of the large image on the loading experience elucidated a number of reactions in favor of making changes from technical staff. I was asked to consult, and emailed with the webmasters at the organization. 
 
-## Deploy the code, test again
+## Deploy the code/images, test again
 
-After some time to make plans to meet and discuss the webmasters set out to make changes based on my consulting advice. There was a cultural recognition that we should take this into account in the future and pay a little more attention.
+I made plans to meet with the webmasters to set out to make changes based on my consulting advice. There was a cultural recognition that we should take this into account in the future and pay a little more attention.
 
-There seemed to be three potential layers of response.
+There seemed to be three potential layers of response. I was unsure how restrictive the platform they were using was to making these changes, but there seemed to be a clear chance for quick wins.
 
 1. Reduce size of the image intrinsically - Easy to do once, but how to make a practice?
 
@@ -102,5 +102,7 @@ There seemed to be three potential layers of response.
 
 3. Refactor to use Srcset and an `<img>` tag - Harder code change, also behavioral change to create multiple images for the hero image.
 
+## Test Results:
 
+## Conclusion (for now)
 

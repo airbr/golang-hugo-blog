@@ -38,7 +38,7 @@ rel = "me noopener"
   name = 'writings'
   pre = "<i class='fa fa-heart'></i>"
   url = '/posts/'
-  weight = -110
+  weight = 1
   [menu.main.params]
     class = 'highlight-menu-item'
 [[menu.main]]
@@ -46,7 +46,15 @@ rel = "me noopener"
   name = 'about'
   pre = "<i class='fa fa-heart'></i>"
   url = '/about/'
-  weight = -110
+  weight = 2
+  [menu.main.params]
+    class = 'highlight-menu-item'
+[[menu.main]]
+  identifier = 'web-performance'
+  name = 'web performance'
+  pre = "<i class='fa fa-heart'></i>"
+  url = '/web-performance/'
+  weight = 3
   [menu.main.params]
     class = 'highlight-menu-item'
     

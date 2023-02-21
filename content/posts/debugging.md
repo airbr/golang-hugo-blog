@@ -11,7 +11,7 @@ read_more_copy: Read more about Debugging...
 
 ---
 
-Sometimes you need more than just a 'rubber duck' to debug. You need a whole way of thinking!
+Sometimes you need more than just a 'rubber duck' method to debug. Sometimes you need a whole new way of thinking!
 
 This article has:
 
