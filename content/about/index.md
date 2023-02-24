@@ -3,9 +3,9 @@ title: About me
 date: 2022-11-27 12:00:00
 ---
 
-👋 Hey there! My name is Morgan. I am an [American New Zealander](https://en.wikipedia.org/wiki/American_New_Zealanders) living in [Bellingham, Washington State](https://en.wikipedia.org/wiki/Bellingham,_Washington). I am able to work in the USA without any sponsorship: I am a citizen of both countries. 
+👋 Hey there! My name is Morgan. I am an [American New Zealander](https://en.wikipedia.org/wiki/American_New_Zealanders) living in [Bellingham, Washington State](https://en.wikipedia.org/wiki/Bellingham,_Washington). I am a citizen of both countries and authorized to work in both. 
 
-I have been a web developer for approximately 5.5+ years after picking up developer skills in the USA after graduating with a law degree in New Zealand. 
+I have been a web developer after picking up developer skills in the USA starting in 2016. I graduated with a law degree in New Zealand some years earlier. 
 
 I have worked on software programs that are relied upon chairside by Orthodontists to provide live information about their case. I have made front end features used in the websites of a Fortune 500 company. I have managed volunteers in my spare time for non-profits. I am confident enough to say I have things to offer the right opportunity!
 
