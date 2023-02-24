@@ -5,11 +5,11 @@
     <div class="{{ .Site.Params.cover_dimming_class | default "bg-black-30" }}">
       {{ partial "site-navigation.html" .}}
       <div class="tc-l pv4 pv6-l ph3 ph4-ns">
-        <h1 style="color: #231F20;" class="f2 inline f-subheadline-l fw2 mb0 lh-title">
+        <h1 style="color: #ffffff;" class="f2 inline f-subheadline-l fw2 mb0 lh-title">
           {{ .Title | default .Site.Title }}
         </h1>
         {{ with .Params.description }}
-          <h2 style="color: #231F20;" class="fw1 f2 f2-l measure-wide-l center mt3">
+          <h2 style="color: #ffffff;" class="fw1 f2 f2-l measure-wide-l center mt3">
             {{ . }}
           </h2>
         {{ end }}
@@ -18,7 +18,7 @@
   </header>
 {{ else }}
   <header>
-    <div style="background: #605C5C;" class="pb3-m pb3-l {{ .Site.Params.background_color_class | default "" }}">
+    <div style="background: #ffffff;" class="pb3-m pb3-l {{ .Site.Params.background_color_class | default "" }}">
       {{ partial "site-navigation.html" . }}
       <div class="tc-l pv3 ph3 ph4-ns">
         <!-- <h1 class="f2 f-subheadline-l fw2 light-silver mb0 lh-title">
