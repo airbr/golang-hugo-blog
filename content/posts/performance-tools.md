@@ -37,9 +37,7 @@ I wanted to see what [my alma maters homepage looked like on desktop Chrome on a
 
 ![Otago University website filmstrip](/otago.gif)
 
-I wanted to see what the loading proces of the [websites of the MLB, NFL, NHL and NBA all looked like visually](https://www.webpagetest.org/video/compare.php?tests=230222_AiDcVC_4FC,230222_AiDcW6_4FA,230222_AiDcFJ_4F9,230222_AiDc70_4F8).   These major league websites have a lot of ads and trackers it seems:
-
-![Major League websites](/major-league-slowness.gif)
+I wanted to see what the loading proces of the [websites of the MLB, NFL, NHL and NBA all looked like visually](https://www.webpagetest.org/video/compare.php?tests=230222_AiDcVC_4FC,230222_AiDcW6_4FA,230222_AiDcFJ_4F9,230222_AiDc70_4F8).   These major league websites have a lot of ads and trackers it seems
 
 I wanted to see how my [local city Government's website performed under lower power connection conditions like Slow 3G](https://www.webpagetest.org/video/compare.php?tests=230223_AiDc9Y_H1K,230223_AiDcCG_H0T,230223_BiDc6F_GVM,230223_BiDcWR_E3Z). I am still experimenting to figure out how many could be affected by serious slowness at lower connection speeds: some initial tests had it taking over a minute to populate information.
 
