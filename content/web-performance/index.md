@@ -13,7 +13,7 @@ Have you tried running tests before on websites? Consider checking out:
 
 * [Lighthouse - Chrome DevTools](https://developer.chrome.com/docs/lighthouse/overview/#devtools)
 
-Lighthouse is just the introduction. It is by no means the only tool you should be using to gain a bigger picture.
+Ideally you should be using several tools to gain a bigger picture.
 
 Then, in no particular order, I reccomend entering a website you are interested in into some of the following:
 
