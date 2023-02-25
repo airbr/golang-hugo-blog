@@ -7,11 +7,13 @@ date: 2023-02-21 12:00:00
 
 I love web performance. It is a mixture of the kinds of challenges I love.
 
-This website is statically generated with [Hugo](https://gohugo.io/) for speed and performance.
+This website is statically generated with [Hugo](https://gohugo.io/) for performance.
 
 Have you tried running tests before on websites? Consider checking out:
 
 * [Lighthouse - Chrome DevTools](https://developer.chrome.com/docs/lighthouse/overview/#devtools)
+
+Lighthouse is just the introduction. It is by no means the only tool you should be using to gain a bigger picture.
 
 Then, in no particular order, I reccomend entering a website you are interested in into some of the following:
 
