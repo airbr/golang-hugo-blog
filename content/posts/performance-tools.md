@@ -1,6 +1,6 @@
 ---
-title: "Why test website performance?"
-date: 2023-02-24T8:00:00-08:00
+title: "Why Test Website Performance? && WebPageTest"
+date: 2023-02-25T8:00:00-08:00
 draft: false
 tags: 
    - Testing
@@ -14,7 +14,7 @@ read_more_copy: Read more about investigations into website performance...
 # featured_image: /wptshirt.jpg
 ---
 
-1. Enjoyment. I get a sensation of excitement and intrigue from reading website performance tests of various kinds.
+1. Enjoyment. I get excited and intrigued from reading website performance tests of various kinds.
 
 2. Civic duty. The performance of the web is generally a public interest issue.
 
@@ -59,7 +59,7 @@ Hacker News's CrUX data is basically all green.
 
 ## I will keep experimenting...
     
-In a months time, when the runs arrive March 16.
+In a months time, when the runs arrive March 16. I love this service but not enough financial means to jump up to 5000 tests a month. 
 
-In the meantime I have some great free services for doing more investigations. 
+In the meantime I have some great free options for doing more investigations. 
 
