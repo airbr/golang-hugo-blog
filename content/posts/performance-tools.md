@@ -20,10 +20,7 @@ read_more_copy: Read more about investigations into website performance...
 
 3. Someday... work will call for it. The skills involved in understanding web performance issues are transferrable and important skills
 
-
-## There are many tests. But this one is mine.
-
-WPT offers a premium web service on top of OSS. It is possible to setup a private instance and I am working towards that goal. I am a big fan of WebPageTest, so much so that I ran out of my 1000 runs well before my plan renewal:
+WebPageTest offers a premium web service on top of OSS. It is possible to setup a private instance and I am working towards that goal. I am a big fan of WebPageTest, so much so that I ran out of my 1000 runs well before my plan renewal:
 
 ![](/outofruns.png)
 
