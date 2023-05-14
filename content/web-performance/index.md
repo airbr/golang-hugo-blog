@@ -33,5 +33,6 @@ I endorse WebPageTest's methodology and hopefully it can only be improved with t
 
 ![We Monitor Our Footprint - WebPageTest Carbon Control from Catchpoint](/carbon-control.png)
 
+## [A recent WebPageTest result including carbon control of this page](https://www.webpagetest.org/result/230514_AiDc7A_3MK/)
 
-### [recent WebPageTest result including carbon control of this page](https://www.webpagetest.org/result/230514_AiDc7A_3MK/)
+<img src="https://api.thegreenwebfoundation.org/greencheckimage/www.morganwebdev.org?nocache=true" alt="This website is hosted Green - checked by thegreenwebfoundation.org">
