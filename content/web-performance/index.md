@@ -32,3 +32,6 @@ When it comes to measuring how much carbon a website impacts you want something 
 I endorse WebPageTest's methodology and hopefully it can only be improved with time!
 
 ![We Monitor Our Footprint - WebPageTest Carbon Control from Catchpoint](/carbon-control.png)
+
+
+### [recent WebPageTest result including carbon control of this page](https://www.webpagetest.org/result/230514_AiDc7A_3MK/)
