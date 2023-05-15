@@ -14,6 +14,7 @@ tags:
    - Green Hosting
 show_reading_time: true
 read_more_copy: Read more about carbon control...
+blurb: Measuring Carbon impact is important and the web is no exception
 # featured_image: /webpagetest-carbon-control-badge-monitored.png
 ---
 
