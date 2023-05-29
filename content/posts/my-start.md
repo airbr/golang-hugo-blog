@@ -14,7 +14,10 @@ tags:
 
 There are many traffic lights in the world but [this one is mine](https://codepen.io/airbridge/pen/oLBvYr). This coded traffic light with HTML , CSS and JS helped kickstart my career that has been spanning for over 5 years doing web development. 
 
-The challenge was hard at the time but now seems trivial. The task twas to create a traffic light that uses JavaScript to be interactive with buttons for Stop, Slow and Go. This was a screening exercise for my bootcamp. 
+The challenge was hard at the time but now seems trivial. The task was to create a traffic light that uses JavaScript to be interactive with buttons for Stop, Slow and Go. This was a screening exercise for my bootcamp. 
+
+In this code sample, hosted on Codepen, you can see the HTML, CSS and JavaScript needed to create a functional stop light:
+
 {{< rawhtml >}}
 <p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="oLBvYr" data-user="airbridge" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
   <span>See the Pen <a href="https://codepen.io/airbridge/pen/oLBvYr">
