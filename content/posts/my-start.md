@@ -12,16 +12,17 @@ tags:
     - Codepen
 ---
 
-There are many traffic lights in the world but this one is mine. This coded traffic light with HTML , CSS and JS helped kickstart my career that has been spanning for over 5 years doing web development. 
+There are many traffic lights in the world but [this one is mine](https://codepen.io/airbridge/pen/oLBvYr). This coded traffic light with HTML , CSS and JS helped kickstart my career that has been spanning for over 5 years doing web development. 
 
-The challenge was hard at the time. Create a traffic light that uses JavaScript to be interactive with buttons for Stop, Slow and Go. This was a screening exercise for my bootcamp. 
-
+The challenge was hard at the time but now seems trivial. The task twas to create a traffic light that uses JavaScript to be interactive with buttons for Stop, Slow and Go. This was a screening exercise for my bootcamp. 
+{{< rawhtml >}}
 <p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="oLBvYr" data-user="airbridge" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
   <span>See the Pen <a href="https://codepen.io/airbridge/pen/oLBvYr">
   Traffic Light JS</a> by Morgan Murrah (<a href="https://codepen.io/airbridge">@airbridge</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+{{< /rawhtml >}}
 
 ### See the comment:
 
@@ -30,4 +31,5 @@ Observed easier to solve problems working from the 'base' of the HTML through to
 
 It is not a special comment, but it is a marker in time that I look back on and remember with some awe.
 
-As detailed in my other posts and in my [About page](/about) I have been spending a lot of time working on the web ever since. But the traffic light is part of where I got my start. 
+As detailed in my other posts and in my [About page](/about) I have been spending a lot of time working on the web ever since. But the traffic light is part of where I got my start.
+
