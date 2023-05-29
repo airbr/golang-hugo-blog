@@ -9,7 +9,10 @@ tags:
    - Performance
    - Speed
    - Investigations
+   - CWV
+   - Core Web Vitals
 show_reading_time: true
+blurb: It is fun. Sometimes profitable.
 read_more_copy: Read more about investigations into website performance...
 # featured_image: /wptshirt.jpg
 ---
