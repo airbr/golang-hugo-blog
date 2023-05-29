@@ -12,7 +12,11 @@ tags:
     - Codepen
 ---
 
+# The light is go!
+
 There are many traffic lights in the world but [this one is mine](https://codepen.io/airbridge/pen/oLBvYr). This coded traffic light with HTML , CSS and JS helped kickstart my career that has been spanning for over 5 years doing web development. 
+
+![](/static/Screenshot%202023-05-29%20at%202.02.55%20AM.png)
 
 The challenge was hard at the time but now seems trivial. The task was to create a traffic light that uses JavaScript to be interactive with buttons for Stop, Slow and Go. This was a screening exercise for my bootcamp. 
 
