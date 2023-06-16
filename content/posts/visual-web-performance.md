@@ -25,7 +25,7 @@ featured_image: /basket.gif
 
 I have tried and engaged with several products and tools:
 
-* Lighthouse (Browser, CLI)
+* Lighthouse (Browser, PageSpeed Insights, WebPageTest, CLI)
 * Yellow Lab Tools (Free website tests, CLI)
 * DebugBear (Free website tests, past trial subscription)
 * WebPageTest (Paying subscriber)
