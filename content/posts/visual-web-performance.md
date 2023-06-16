@@ -36,11 +36,11 @@ It all seemed to start in around 2017 when I was seeking a perfect score in ligh
 ![](https://github.com/airbr/newpersonal/raw/master/readme-assets/PWA100.png)
 *A 2017 test result where I got a perfect score for my progressive web app in Lighthouse*
 
-[It reminds me of how I got started in web development making a Traffic Light HTML/CSS/JS test on the frontend in 2016](/my-start).
+[It reminds me of how I got started in web development making a Traffic Light HTML/CSS/JS test on the frontend in 2016](/posts/my-start).
 
 ### I have been on a web performance journey.. 
-*   [Web Performance Testing - Dec 12 2022](/performance)
-*   [Why Test Web Performance? -  Feb 25 2023](/performance-tools)
+*   [Web Performance Testing - Dec 12 2022](/posts/performance)
+*   [Why Test Web Performance? -  Feb 25 2023](/posts/performance-tools)
 ###  and it continues...
 
 My current personal website in 2023 gets four hundo's on desktop:
