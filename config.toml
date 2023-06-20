@@ -51,7 +51,7 @@ rel = "me noopener"
     class = 'highlight-menu-item'
 [[menu.main]]
   identifier = 'web-performance'
-  name = 'webperf'
+  name = 'web performance'
   pre = "<i class='fa fa-heart'></i>"
   url = '/web-performance/'
   weight = 3
