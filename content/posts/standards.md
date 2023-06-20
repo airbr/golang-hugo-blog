@@ -8,6 +8,7 @@ tags:
     - standards
     - public interest
     - compliance
+blurb: There have been movements to recognize a right to internet access but there is not much precedent for a right to a particularly fast internet experience.
 ---
 
 This post seeks to examine some underlying justification and practical application of public web performance standards. Currently no such standard exists in New Zealand and as I am writing this I am unaware of any such adopted public standards anywhere.
