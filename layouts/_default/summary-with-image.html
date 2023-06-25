@@ -20,14 +20,13 @@
         <span class="f6 mv3 dib tracked"> {{ i18n "readingTime" .ReadingTime }} </span>
         <span class="f6 mv3 dib tracked"> - {{ i18n "wordCount" .WordCount }} </span>
         {{ end }}
-
+        {{ if (.Param "blurb") }}
         <a href="{{ .RelPermalink }}" class="link black dim">
-          {{ if (.Param "blurb") }}
-          <h3>
+          <h2>
             {{ .Param "blurb"}}
-          </h3>
-          {{ end }}
+          </h2>
         </a>
+        {{ end }}
         <br>
           <a href="{{.RelPermalink}}" style="box-shadow: 5px 10px;" class="ba b--moon-gray bw1 bg-light-gray br2 color-inherit dib f4 hover-bg-moon-gray link mt2 ph2 pv1">{{ $.Param "read_more_copy" | default (i18n "readMore") }}</a>
         {{/* TODO: add author
