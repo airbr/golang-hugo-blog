@@ -9,6 +9,7 @@ tags:
     - standards
     - public interest
     - compliance
+    - Morgan Murrah
 blurb: There have been movements to recognize a right to internet access but there is not much precedent for a right to a particularly fast internet experience.
 ---
 

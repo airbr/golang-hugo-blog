@@ -1,6 +1,6 @@
 ---
 title: "WebPageTest & First Consultation"
-date: 2023-02-24T8:00:00-08:00
+date: 2023-05-09T8:00:00-08:00
 draft: true
 tags: 
    - Testing
@@ -29,7 +29,7 @@ When I started this journey I was running tests from local npm installations wit
 
 I later found a number of online services including SpeedCurve, DebugBear and WebPageTest (WPT). All of them had awesome tooling and UX aspects to them. All of them felt like thousands of hours of hard work went into making them great. However, WPT seemed the sharpest tool for what I was to do so I have invested the most time with it. 
 
-As it turns out, there is a lot more thought that goes into it than just the ability to run some tests. The real power of web performance testing seemed to be in performance monitoring and comparing tests over time. Benchmarking the tests with devices and different connection speeds also seemed important and more effective than just doing one off tests in a browser with DevTools or the local installations I had experimented with.
+As it turns out, there is a lot more thought that goes into it than just the ability to run some tests. The real power of web performance testing seemed to be in performance monitoring and comparing tests over time. Benchmarking the tests with devices and different connection speeds also seemed critically important.
 
 ## Enter WebPageTest
 
@@ -102,7 +102,6 @@ There seemed to be three potential layers of response. I was unsure how restrict
 
 3. Refactor to use Srcset and an `<img>` tag - Harder code change, also behavioral change to create multiple images for the hero image.
 
-## Test Results:
 
 ## Conclusion (for now)
 

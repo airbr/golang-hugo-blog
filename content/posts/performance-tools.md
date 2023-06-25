@@ -11,6 +11,7 @@ tags:
    - Investigations
    - CWV
    - Core Web Vitals
+   - Morgan Murrah
 show_reading_time: true
 blurb: It is fun. Sometimes profitable.
 read_more_copy: Read more about investigations into website performance...
