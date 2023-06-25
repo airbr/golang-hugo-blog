@@ -1,6 +1,6 @@
 baseURL = "https://morganwebdev.org/"
 languageCode = "en-us"
-title = "Morgan Murrah - Developer"
+title = "Morgan Murrah"
 theme = 'ananke'
 show_reading_time = true
 features = ["posts", "shortcodes", "related content"]
