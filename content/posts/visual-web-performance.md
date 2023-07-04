@@ -1,6 +1,6 @@
 ---
 title: "Pretty Visuals, Variable Reward and Web Performance"
-date: 2023-06-15T8:00:00-08:00
+date: 2023-07-02T8:00:00-08:00
 draft: false
 tags: 
    - Testing
@@ -8,6 +8,7 @@ tags:
    - Web Performance
    - Visual
    - Video
+   - Morgan Murrah
 show_reading_time: true
 read_more_copy: See more here...
 blurb: Images can indeed speak a thousand words sometimes
