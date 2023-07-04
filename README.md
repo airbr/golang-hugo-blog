@@ -9,5 +9,3 @@ See Hugo documentation to make sense of this site.
 ### Screenshots
 DESKTOP
 ![](/static/desktop.png)
-MOBILE
-![](/static/mobile.png)
