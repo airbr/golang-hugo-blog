@@ -24,7 +24,7 @@ featured_image: /morganwebdevdotorg.gif
 
 I have tried a few web performance tools and this how I do it when I really want to refine and investigate a deployment or the current state of a website. I also do this method when I want to do it for free on an individual basis: a lot of this stuff is automated by paid tools for you.
 
-Ideally, going through the rigor of testing with more than one platform will ensure a higher degree of trust in resuslts identified in the tests. 
+Ideally, going through the rigor of testing with more than one platform will ensure a higher degree of trust in the results produced by the tests. 
 
 For this exercise I usually open six tabs in chrome, one for each of the links below.
 
