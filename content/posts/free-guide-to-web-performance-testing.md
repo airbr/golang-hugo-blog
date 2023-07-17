@@ -59,7 +59,7 @@ Start to look at the results. Consider a few questions:
 >
 > Cumulative Layout Shift (CLS): measures visual stability. To provide a good user experience, pages should maintain a CLS of 0.1. or less.
 
-4. Focus on the WebPageTest results. It is currently the best guide. 
+4. I think it is best to  focus on the WebPageTest results for Core Web Vitals. It is currently the best guide generally. 
 
 There is SO much more to this than that, but by now if you look at several test results, some trends or things should appear consistent and you can dig deeper.
 
