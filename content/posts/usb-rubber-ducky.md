@@ -28,7 +28,7 @@ After feeling like I could treat myself to a new tool/toy I purchased the new Ve
 **Left: v3 of USB Rubber Ducky, Right: v1**
 
 
-Example Hello World Script with Ducky Script 3.0, using the Button feature to initiate payload afte the button is pressed.
+Example Hello World Script with Ducky Script 3.0, using the Button feature to initiate payload after the button is pressed.
 
 This program opens a text edit program on MacOS and inputs the text including the Lorem Ipsum.
 
