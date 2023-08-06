@@ -16,22 +16,6 @@ enableRobotsTXT = true
   name = "github"
   url = "https://github.com/airbr" 
 
-[[params.ananke_socials]]
-name = "mastodon"
-url = "https://subdued.social/@morganm"
-rel = "me noopener"
-
-[[params.ananke_socials]]
-name = "linkedin"
-url = "https://www.linkedin.com/in/mmurrah/"
-rel = "me noopener"
-share = false
-
-[[params.ananke_socials]]
-name = "slack"
-url = "https://www.bellingham.codes/"
-rel = "me noopener"
-
 [menu]
 [[menu.main]]
   identifier = 'writings'
@@ -55,6 +39,12 @@ rel = "me noopener"
   pre = "<i class='fa fa-heart'></i>"
   url = '/web-performance/'
   weight = 3
+[[menu.main]]
+  identifier = 'morganwebdev.com'
+  name = 'mobile links at morganwebdev.com'
+  pre = "<i class='fa fa-heart'></i>"
+  url = 'https://morganwebdev.com'
+  weight = 4
   [menu.main.params]
     class = 'highlight-menu-item'
     
