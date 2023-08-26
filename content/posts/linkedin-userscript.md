@@ -69,4 +69,6 @@ Note the require sections which imports jQuery and a script called waitForKeyEle
 
 Once those are available in the require section you can call the waitForKeyElements function with the selector of the item you are waiting to appear and a function i.e scissors which gets passed a jNode of the selected element.
 
-In this example, all there is to do with the element once its found it is ✂️.
+In this example, all there is to do with the element once it is found is to use `remove()` to remove it from the page ✂️.
+
+The selectors for these elements were found using Chrome Dev Tools.
