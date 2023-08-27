@@ -19,11 +19,9 @@ featured_image: /linkedin-feed.png
 
 #### The Linkedin News Feed. 
 
-If you know, you know. The news feed is not a great source of information at times. Honestly, it should seem to be optional. I don't think its added much to my life but sometimes the headlines are annoying. 
+If you know, you know. The news feed is not a great source of information at times. Honestly, it should seem to be optional. I don't think its added much to my life and sometimes the headlines are annoying. 
 
-There are also some advertisements on the home page I could do without. 
-
-Quitting the website is still a far off option as it is useful to keep in touch with people through the platform. I still want to check to see occasionally what is happening but there are features I could do without. 
+Quitting the website Linkedin is still a far off option as it is useful sometimes to keep in touch with people through the platform. I still want to check to see occasionally what is happening but there are features I could do without. 
 
 # Solution: 
 
