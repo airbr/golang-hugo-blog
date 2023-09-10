@@ -32,7 +32,7 @@ Today I learned some about responsive images, and launched a practical demonstra
     sizes="100vw"
     title="Pōhutukawa tree in Opito Bay, New Zealand"
       />
-    <img class="opito-hero" src="img/cropped.jpg" sizes="100vw" 
+    <img class="opito-hero" srcset="img/cropped-sm.jpg 600w, img/cropped.jpg 1200w" sizes="100vw" 
     alt="Pōhutukawa tree in Opito Bay, New Zealand" loading="eager" decoding="sync"
     title="Pōhutukawa tree in Opito Bay, New Zealand"
     />
