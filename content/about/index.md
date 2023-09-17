@@ -3,7 +3,7 @@ title: About me
 date: 2023-09-15 12:00:00
 ---
 
-👋 Hey there! My name is Morgan. I am an [American New Zealander](https://en.wikipedia.org/wiki/American_New_Zealanders) living in [Bellingham, Washington State](https://en.wikipedia.org/wiki/Bellingham,_Washington). I am a citizen of both countries.
+👋 Hey there! My name is Morgan. I am an [American New Zealander](https://en.wikipedia.org/wiki/American_New_Zealanders) living in [Bellingham, Washington State](https://en.wikipedia.org/wiki/Bellingham,_Washington).
 
 I have been a web developer after picking up developer skills in the USA starting in 2016. I graduated with a law degree in New Zealand some years earlier. 
 
