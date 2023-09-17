@@ -15,6 +15,9 @@ enableRobotsTXT = true
 [[params.ananke_socials]]
   name = "github"
   url = "https://github.com/airbr" 
+ [[params.ananke_socials]] 
+  name = "rss"
+  url = "https://morganwebdev.org/index.xml" 
 
 [menu]
 [[menu.main]]
@@ -41,7 +44,7 @@ enableRobotsTXT = true
   weight = 3
 [[menu.main]]
   identifier = 'morganwebdev.com'
-  name = 'mobile links at morganwebdev.com'
+  name = 'more links at morganwebdev.com'
   pre = "<i class='fa fa-heart'></i>"
   url = 'https://morganwebdev.com'
   weight = 4
