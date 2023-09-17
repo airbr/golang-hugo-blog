@@ -25,15 +25,6 @@ There are lots of resources out there, but first you should run some tests and g
 
 All the resources and community are out there and it is just more a matter of sparking that initial interest to get you going is my philosophy. 
 
-### Carbon control 
-
-When it comes to measuring how much carbon a website impacts you want something with resources and engineering. More importantly, you want to get your message across effectively. WebPageTest provides this capability with its reports.
-
-I endorse WebPageTest's methodology and hopefully it can only be improved with time!
-
-![We Monitor Our Footprint - WebPageTest Carbon Control from Catchpoint](/carbon-control.png)
-
-## [A recent WebPageTest result including carbon control of this page](https://www.webpagetest.org/result/230514_AiDc7A_3MK/)
 {{< rawhtml >}}
 <img src="https://api.thegreenwebfoundation.org/greencheckimage/www.morganwebdev.org?nocache=true" alt="This website is hosted Green - checked by thegreenwebfoundation.org">
 {{< /rawhtml >}}
