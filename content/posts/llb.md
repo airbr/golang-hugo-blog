@@ -30,7 +30,7 @@ I changed jurisdictions from New Zealand to Georgia, USA and my credentials were
 
 I investigated the process for getting a legal education waiver in Georgia and [received a letter from a Professor in Georgia suggesting that my education was comparable to that of an ABA-approved Law School](/waiver-application-supporting-letter.pdf) that would have supported that application.
 
-For the effort and consideration that went into that letter by Professor Natsu Saito Taylor I am deeply grateful. 
+For the effort and consideration that went into that letter by Professor Natsu Taylor Saito I am deeply grateful. 
 
 However, I had already started to make up my mind to move towards technology.
 
