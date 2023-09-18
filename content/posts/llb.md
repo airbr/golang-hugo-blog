@@ -22,7 +22,7 @@ It has been nearly a decade now since I graduated with an [LLB](https://www.otag
 
 I am proud of these achievements even though I have not been doing law as a career and instead doing Web Development since 2016. As part of my legal education I read a lot of cases and discussed hard problems with a lot of people. I got enormous joy out of the intellectual exercise of the degree.
 
-I spent the majority of my University time working to become a lawyer and then did post graduate examinations called PROFS to become enrolled as someone who could have been hired and then given a practicing certificate in New Zealand. Only when you currently have a practicing certificate can you call yourself a Lawyer in New Zealand.
+I spent the majority of my University time working to become a lawyer and then did post graduate examinations called PROFS to become enrolled as someone who could have been hired and then given a practicing certificate in New Zealand. Only when you currently have a practicing certificate can you call yourself a lawyer in New Zealand.
 
 #### So how did I become a web developer, working in tech for the last six+ years?
 
@@ -41,9 +41,7 @@ However, I had already started to make up my mind to move towards technology.
 * Signed up for tech bootcamp: 2016, Atlanta, GA, USA
 * Started working remote doing web development May 2017-> Present
 
-I realized quickly given a choice that I wanted to work with technology.
-
-I wanted to work remote. I found web development.
+I realized quickly given a choice that I wanted to work with technology. I wanted to work remote. I found web development.
 
 I have more I plan to write about how law influences my technology career.
 
