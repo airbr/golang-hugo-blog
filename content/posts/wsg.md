@@ -1,5 +1,5 @@
 ---
-title: "Web Sustainability Guidelines (WSG)"
+title: "News: Web Sustainability Guidelines (WSG)"
 date: 2023-09-16T8:00:00-08:00
 draft: false
 tags: 
@@ -18,6 +18,25 @@ featured_image: /w3c.github.io_sustyweb_(iPad Air).png
 
 ### [Also, see the homepage for the group](https://www.w3.org/community/sustyweb/)
 
-As of recently I am now a participant in the W3C community group and if things go well I will be an active contributor to an important set of guidelines!
+As of recently I am now a participant in the W3C community group and if things go well I will be able to contribte something to an important set of guidelines!
 
-More info to come.
+{{< rawhtml >}}
+<details>
+  <summary>Web Performance highlights so far from the perspective of a developer: (expand)</summary>
+    <ul>
+    <li>2.6 Create a Frictionless Lightweight Experience By Default</li>
+    <li>2.7 Avoid Unnecessary Or An Overabundance Of Assets</li>
+    <li>2.15 Take a More Sustainable Approach To Image Assets</li>
+    <li>2.16 Take a More Sustainable Approach To Media Assets</li>
+    <li>2.18 Take a More Sustainable Approach To Typefaces</li>
+    <li>3.2 Minify Your HTML, CSS, And JavaScript</li>
+   <li> 3.7 Rigorously Assess Third-party Services</li>
+   <li> 3.9 Resolve Render Blocking Content</li>
+    <li>4.2 Optimize Browser Caching</li>
+   <li> 4.3 Compress Your Files</li>
+   <li> 4.7 Frequency For Refresh Is Relevant To Visitor Needs</li>
+   <li> 4.10 Use Edge Computing</li>
+   <li> 5.27 Define Performance And Environmental Budgets</li>
+    <ul>
+</details>
+{{< /rawhtml >}}
