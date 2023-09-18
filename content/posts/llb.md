@@ -7,15 +7,14 @@ tags:
     - Education
     - Otago University
     - Enrolled Barrister and Solicitor of the High Court of New Zealand
-blurb:     It is fun to drop into conversation that I have a law degree from New Zealand as I don't often mention it!
 show_reading_time: true
-read_more_copy: My law background...
+read_more_copy: It is fun to drop into conversation that I have a law degree from New Zealand as I don't often mention it!
 featured_image: /legal-beagle.png
 ---
 
 It has been nearly a decade now since I graduated with an [LLB](https://www.otago.ac.nz/courses/qualifications/llb) from Otago University, Dunedin, New Zealand. In a few years it will be a decade since I later became [an enrolled barrister and solicitor of the High Court of New Zealand](https://www.lawsociety.org.nz/starting-as-a-lawyer/admitted-but-no-practising-certificate/). To most people I have met for quite a few years these may be surprising facts as to many people I am just "Morgan, the Web Developer".
 
-![](/legal-beagle.png)
+![A photo of me](/legal-beagle.png)
 
 > A photo of me listening to [Justice Gendall](https://www.beehive.govt.nz/release/new-high-court-judge-appointed-10), from my Admission ceremony March 30 2015.
 
