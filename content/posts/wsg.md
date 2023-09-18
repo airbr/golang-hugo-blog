@@ -22,7 +22,7 @@ As of recently I am now a participant in the W3C community group and if things g
 
 {{< rawhtml >}}
 <details>
-  <summary>Web Performance highlights so far from the perspective of a developer: (expand)</summary>
+  <summary>Some highlights so far I have noted from my personal experiences with web performance: (expand)</summary>
     <ul>
     <li>2.6 Create a Frictionless Lightweight Experience By Default</li>
     <li>2.7 Avoid Unnecessary Or An Overabundance Of Assets</li>
