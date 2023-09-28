@@ -28,9 +28,7 @@ I spent the majority of my University time working to become a lawyer and then d
 
 I changed jurisdictions from New Zealand to Georgia, USA and my credentials were not as accepted and I started to realize I was not a good fit for the kinds of work I encountered. Made the career change pivot plan after several months of trying to get progress with my legal credentials in Georgia and finding it difficult. I did not want to go back to school for law again.
 
-I investigated the process for getting a legal education waiver in Georgia and [received a letter from a Professor in Georgia suggesting that my education was comparable to that of an ABA-approved Law School](/waiver-application-supporting-letter.pdf) that would have supported that application.
-
-For the effort and consideration that went into that letter by Professor Natsu Taylor Saito I am deeply grateful. 
+I investigated the process for getting a legal education waiver in Georgia and received a letter from a Professor in Georgia suggesting that my education was comparable to that of an ABA-approved Law School that would have supported that application. For the effort and consideration that went into that letter by Professor Natsu Taylor Saito I am deeply grateful. 
 
 However, I had already started to make up my mind to move towards technology.
 
@@ -44,10 +42,5 @@ However, I had already started to make up my mind to move towards technology.
 I realized quickly given a choice that I wanted to work with technology. I wanted to work remote. I found web development.
 
 I have more I plan to write about how law influences my technology career.
-
-Planned items to cover include:
-
-- [GovHack 2015](https://www.odt.co.nz/news/dunedin/dunedin-website-team-wins-nationwide-competition)
-- Being a W3C Participant 2023
 
 #### My LLB was time well spent, even if not a direct career path. Wouldn't go back and do things differently.
