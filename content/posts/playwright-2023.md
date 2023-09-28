@@ -13,9 +13,7 @@ read_more_copy: Revisiting Playwright the Testing Library...
 
 ---
 
-#### [Just over a year ago I wrote about my initial experiences with Playwright, the E2E testing library](/posts/playwright).
-
-I return again this year to revisit Playwright with fresh eyes. In the interim I have been making heavy use of the similar but Chrome only library called Puppeteer professionally. 
+#### [Just over a year ago I wrote about my initial experiences with Playwright, the E2E testing library](/posts/playwright). 
 
 ## [A new day, a new repository. My new repository for Playwright testing this blog.](https://github.com/airbr/playwright)
 
