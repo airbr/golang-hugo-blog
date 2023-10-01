@@ -1,0 +1,31 @@
+{
+  "name": "morgan",
+  "version": "1.0.1",
+  "description": "A Hugo blog integrated with Playwright E2E Tests",
+  "main": "index.js",
+  "scripts": {
+    "serve": "hugo serve",
+    "test": "npx playwright test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/airbr/golang-hugo-blog.git"
+  },
+  "keywords": [
+    "Hugo",
+    "Morgan",
+    "Murrah",
+    "Blog",
+    "Playwright"
+  ],
+  "author": "Morgan Murrah",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/airbr/golang-hugo-blog/issues"
+  },
+  "homepage": "https://github.com/airbr/golang-hugo-blog#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.38.1",
+    "@types/node": "^20.8.0"
+  }
+}
