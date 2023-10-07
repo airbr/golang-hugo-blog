@@ -23,12 +23,11 @@ Today I learned some about responsive images, and launched a practical demonstra
 
 > [The image-set() CSS functional notation is a method of letting the browser pick the most appropriate CSS image from a given set, primarily for high pixel density screens.](https://developer.mozilla.org/en-US/docs/Web/CSS/image/image-set)
 
-```
+```css
     body {
-        text-align: center;
-        font-family: sans-serif;
-        font-size: .9em;
         /* https://drafts.csswg.org/css-images-4/#image-set-notation */
+        /* fallback */
+        background-image: url("static/img/opito-hero-med.jpg")
         background-image: image-set(
         url("static/img/opito-hero-med.jpg") 1x,
         url("static/img/opito-hero-lg.jpg") 2x
