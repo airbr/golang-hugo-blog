@@ -15,7 +15,7 @@ blurb: How I scraped all the images from my Instagram feed for safe keeping
 featured_image: /har-file-lg.webp
 ---
 
-This blog explains one method for scraping images from a website that has a scrolling feed such as Instagram that may not make it easy to export your images in one swoop by making using HAR files recorded in the web browser. 
+This blog explains one method for scraping images from a website that has a scrolling feed such as Instagram. Some Apps may not make it easy to export your images in one swoop and so this method uses HAR files recorded in the web browser to capture the images manually.
 
 I was able to successfully capture several hundred images in one HAR file and repeat the steps multiple times to capture my entire Instagram feed with over a thousand images. I was then able to export the images with a program called Proxyman in one or two clicks. It is a rough technique but flexible and better than screenshotting images.
 
