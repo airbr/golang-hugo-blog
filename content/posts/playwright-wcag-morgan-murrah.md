@@ -18,7 +18,7 @@ read_more_copy: Learning about Web Content Accessibility Guidelines (WCAG) 2.1 t
 
 ### [One fast website- morganwebdev.com](https://www.morganwebdev.com).
 
-That website is about as fast as it can possibly be but yet still accomplishes a bunch: The project morganwebdev.com makes use of a number of techniques for great performance and accessibility. 
+The project morganwebdev.com makes use of a number of techniques for great performance and accessibility. 
 
 * Semantic HTML
 * Inlined into file CSS
