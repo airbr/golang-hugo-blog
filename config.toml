@@ -21,12 +21,6 @@ enableRobotsTXT = true
 
 [menu]
 [[menu.main]]
-  identifier = 'Bellingham'
-  name = 'Bellingham'
-  pre = "<i class='fa fa-heart'></i>"
-  url = '/bellingham/'
-  weight = 2
-[[menu.main]]
   identifier = 'writings'
   name = 'writings'
   pre = "<i class='fa fa-heart'></i>"
