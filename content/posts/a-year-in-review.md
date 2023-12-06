@@ -14,6 +14,8 @@ tags:
     - Aotearoa New Zealand Greens
     - MyDSA
     - DSA
+    - Web Performance
+    - Testing
 featured_image: /waterfall.png
 read_more_copy: About my last year and things to come...
 ---
