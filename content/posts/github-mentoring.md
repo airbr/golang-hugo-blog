@@ -13,11 +13,13 @@ tags:
     - interviewing
 ---
 
-## Over the course of 2020 and 2021 thus far I have mentored seven up and coming software developers from several communities: [Bellingham Codes](https://bellingham.codes), [Tech404](https://tech404.github.io/) and Linkedin. I mentored them to optimize their GitHub account for prospective employers/recruiters/OSS opportunities. I spent 20-40mins over Zoom with each of them and learned a lot myself about what it is like getting started in the industry today. As of writing this, I am aware that one person has landed a job and one has advanced in interview stages aided by their GitHub. 
+### Update in 2023: I still basically endorse this advice. I would assign having a Github profile a lower level of importance than I did before, because I have advanced in my career. However, it was important getting started in my example. 
 
-## This blog is a synthesis of what I was taught at my General Assembly Bootcamp in 2016, my lived experience as a developer the last four years and the experience of mentoring up and coming developers. It follows a few stages and is intended for someone starting out in the industry.
+### Over the course of 2020 and 2021 thus far I have mentored seven up and coming software developers from several communities: [Bellingham Codes](https://bellingham.codes), [Tech404](https://tech404.github.io/) and Linkedin. I mentored them to optimize their GitHub account for prospective employers/recruiters/OSS opportunities. I spent 20-40mins over Zoom with each of them and learned a lot myself about what it is like getting started in the industry today. As of writing this, I am aware that one person has landed a job and one has advanced in interview stages aided by their GitHub. 
 
-# Spoiler: It is not all about the contribution graph. It is about context and usability.
+### This blog is a synthesis of what I was taught at my General Assembly Bootcamp in 2016, my lived experience as a developer the last four years and the experience of mentoring up and coming developers. It follows a few stages and is intended for someone starting out in the industry.
+
+## Spoiler: It is not all about the contribution graph. It is about context and usability.
 
 
 First... I am biased towards GitHub and I think it can be quite important. For some people, especially experienced programmers who were around before Git and GitHub, it may be [completely unnecessary and frustrating that people now think it is important](https://www.quora.com/What-do-you-think-about-a-coder-who-does-not-have-Github-account). My bias comes from my (in)experience and naive wisdom: my GitHub profile was essential in getting my first full time remote developer job that changed my life. 
@@ -219,39 +221,3 @@ Open source contributions are arguably the best currency in your belt on GitHub 
 # And with all that said...
 
 GitHub is not everything. Still, it may be a ingredient or hurdle to get over to getting your first gig or next gig. It is worth putting some detailed effort into it if that is what you want to get out of it. I hope something from this blog has been useful to you.
-
-
----
-# Testimonials:
-
-## Update: This mentee got a job! "They absolutely looked at my github. It was only brought up for a second on my final interview and they liked it a lot. I believe they said something along the lines of how active I was, but they also talked about my projects I have pinned. They didn't know about my portfolio site, so I'm sure they saw it over github."
-
-#### __It really was excellent opinionated advice,  I would encourage others to reach out especially if you're like me, and unsure of what to do to break into the field. That 20-30 minutes was quite the confidence booster__ 
-
-- [Andrew Z](https://github.com/andrew-zimmer)
-
-#### __Thank you for looking at mine, Morgan. I also encourage folks to chat him up for some advice__ 
-
-- [Josh F](https://github.com/baidenx7)
-
-#### __Just met with Morgan, who shared many useful insights. I highly recommend it if any other aspiring developers have the opportunity. Thanks, Morgan!__
-
- - [Simon](https://github.com/simon-panek)
-
-## Update: Hey @morganm, I just heard back from a recruiter that she is interested in moving me forward in the interview process only because of my GitHub profile. Just wanted to let you know you’re making a difference and it’s appreciated.
-
-#### __Thank you so much for sharing your insight and advice. It’s awesome that you’re doing this. Every little thing you suggested was incredibly helpful. I’ve started making some improvements and there’s a lot more I still want to do based on your suggestions__ 
-
-- [Russel T](https://github.com/rdtaylorjr)
-
-#### __Directed guidance and loads of information. Thanks for the mentoring @morganm . Now to get started on that homework! Can’t thank you enough__ 
-
-- [Aaron](https://github.com/amikalperkins)
-
-#### __Just got off of a zoom mentoring session with @morganm. He had a ton of practical, actionable advice which I intend to put into practice asap. I feel super fortunate to have found bellingham.codes and Morgan and the rest of the helpful, friendly folks on here. Thanks again, Morgan!__ 
-
-- [Tyler](https://github.com/tylerkkp)
-
-#### __Morgan gave me insightful feedback on my GitHub and taught me ways to highlight specific repos, ways to keep up to late with the latest happenings in tech, and provided helpful suggestions about how to streamline project descriptions to make it easier for potential employers to browse my projects. I even got a few bonus tips about app deployment! Thanks for answering all my questions, Morgan!__
-
-- [Catherine](https://github.com/cathjime)
