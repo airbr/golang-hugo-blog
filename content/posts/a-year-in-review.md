@@ -1,5 +1,5 @@
 ---
-title: "Morgan Murrah's 2023 in review: lots going on!"
+title: "Morgan Murrah's 2023 year in review: lots going on!"
 date: 2023-12-04T12:00:00-08:00
 draft: false
 show_reading_time: true
@@ -13,11 +13,10 @@ tags:
     - GitHub
     - Aotearoa New Zealand Greens
     - MyDSA
-    - DSA
     - Web Performance
     - Testing
-featured_image: /waterfall.png
-read_more_copy: About my last year and things to come...
+featured_image: /hypermedia.jpg
+read_more_copy: About my last year and things to come... Reading Hypermedia Systems, volunteering and more.
 ---
 
 Life is full of many projects and I have one most important project which is [to get married](/posts/engagement). There are many interesting side projects in my life along the way and I have a few highlights in no particular order:
@@ -60,11 +59,17 @@ I helped author the [public facing organizational README for the Green Party of 
 
 I helped set up a [Playwright](/posts/playwright-2023) testing library solution that engaged other volunteers in meaningful and pro active use of front end testing to further ensure quality of services.
 
-### Active contributor to [MyDSA](https://tech.dsausa.org/mydsa/) - Democratic Socialists of America
+### Active contributor to [MyDSA](https://tech.dsausa.org/mydsa/)
 
 I am working on HTML and CSS for the emerging features of [MyDSA](https://tech.dsausa.org/mydsa/) for the National Tech Committee.
 
 Particularly I worked to advocate for clean semantic as possible HTML and incorporating testing into the mix.
 
+
+### Highlight: Started reading Hypermedia Systems
+
+![Hyper media systems](/hypermedia.jpg)
+
+Such a refreshing book.
 
 ### If you have read this far, you know a lot about me! You are welcome to say hello on [Mastodon](https://subdued.social/@morganm) or otherwise
