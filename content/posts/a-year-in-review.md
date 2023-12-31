@@ -1,7 +1,7 @@
 ---
-title: "Morgan Murrah's 2023 year in review: lots going on!"
-date: 2023-12-04T12:00:00-08:00
-draft: true
+title: "Morgan Murrah's 2023 year in review going into 2024: lots going on!"
+date: 2023-12-30T12:00:00-08:00
+draft: false
 show_reading_time: true
 tags: 
     - Marriage
@@ -12,7 +12,6 @@ tags:
     - Archive
     - GitHub
     - Aotearoa New Zealand Greens
-    - MyDSA
     - Web Performance
     - Testing
 featured_image: /hypermedia.jpg
@@ -61,10 +60,7 @@ I helped set up a [Playwright](/posts/playwright-2023) testing library solution 
 
 ### Active contributor to [MyDSA](https://tech.dsausa.org/mydsa/)
 
-I am working on HTML and CSS for the emerging features of [MyDSA](https://tech.dsausa.org/mydsa/) for the National Tech Committee.
-
-Particularly I worked to advocate for clean semantic as possible HTML and incorporating testing into the mix.
-
+I am working on HTML and CSS for the emerging features of [MyDSA](https://tech.dsausa.org/mydsa/) for the National Tech Committee. Particularly I worked to advocate for clean semantic as possible HTML and incorporating testing into the mix.
 
 ### Highlight: Started reading Hypermedia Systems
 
