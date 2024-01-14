@@ -53,4 +53,3 @@ Keep in mind this is just stuff in my spare time
 
 Such a refreshing book.
 
-### If you have read this far, you know a lot about me! You are welcome to say hello on [Mastodon](https://subdued.social/@morganm) or otherwise
