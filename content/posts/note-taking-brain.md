@@ -66,7 +66,7 @@ Lets break this down:
 
 * [Markdown](https://en.wikipedia.org/wiki/Markdown) the format is a portable readable format. It is not a proprietary format.
 * The markdown files are stored in plaintext, not in any particular encoded format or anything that needs to be exported for ease of access and use.
-* Notes are stored locally in the app, and are not able to be read by others or anything as a platform, but there are options to sync them.
+* Notes are stored locally and do not need the app but there are options to sync them.
 
 All of this is sort of packaged with a goal in mind: getting you to focus on the words you are writing, and the knowledge gained, rather than distractions or frills.
 
