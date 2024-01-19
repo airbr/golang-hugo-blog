@@ -9,5 +9,5 @@ theme_version: '2.8.2'
 # featured_image: '/flagofbellingham.svg'
 background: '#F4797E'
 text_color: '#231F20'
-# featured_image: '/opito-hero-lg.jpg'
+featured_image: '/opito-hero-lg.jpg'
 ---
