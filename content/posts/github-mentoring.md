@@ -11,13 +11,14 @@ tags:
     - code
     - industry
     - interviewing
+    - 2024
 ---
 
-### Update in 2023: I still basically endorse this advice. I would assign having a Github profile a lower level of importance than I did before, because I have advanced in my career. However, it was important getting started in my example. 
+#### Update in 2024: I still basically endorse this advice. I would assign having a fully featured Github profile a lower level of importance than I did before, because I have advanced in my career. However, it was important getting started in my example. 
 
-### Over the course of 2020 and 2021 thus far I have mentored seven up and coming software developers from several communities: [Bellingham Codes](https://bellingham.codes), [Tech404](https://tech404.github.io/) and Linkedin. I mentored them to optimize their GitHub account for prospective employers/recruiters/OSS opportunities. I spent 20-40mins over Zoom with each of them and learned a lot myself about what it is like getting started in the industry today. As of writing this, I am aware that one person has landed a job and one has advanced in interview stages aided by their GitHub. 
+##### Over the course of 2020 and 2021 thus far I have mentored seven up and coming software developers from several communities: [Bellingham Codes](https://bellingham.codes), [Tech404](https://tech404.github.io/) and Linkedin. I mentored them to optimize their GitHub account for prospective employers/recruiters/OSS opportunities. I spent 20-40mins over Zoom with each of them and learned a lot myself about what it is like getting started in the industry today. As of writing this, I am aware that one person has landed a job and one has advanced in interview stages aided by their GitHub. 
 
-### This blog is a synthesis of what I was taught at my General Assembly Bootcamp in 2016, my lived experience as a developer the last four years and the experience of mentoring up and coming developers. It follows a few stages and is intended for someone starting out in the industry.
+##### This blog is a synthesis of what I was taught at my General Assembly Bootcamp in 2016, my lived experience as a developer the last four years and the experience of mentoring up and coming developers. It follows a few stages and is intended for someone starting out in the industry.
 
 ## Spoiler: It is not all about the contribution graph. It is about context and usability.
 
@@ -180,7 +181,7 @@ __ReadMe for: "Company database built with MySQL"__
 > Example company database project built with MySQL utilizing foreign key relationships and a variety of data types. Committed over a week long period; plans to expand project in future. References: Chapter 3-5 Database programming 5th edition
 
 
-## It may still just be in fact school work but it is rebranded and gives a different impression: it speaks with a voice from you, not the school or tutorial. It is literally just rewording a few words in your description: I recommend doing this with everything and at least doing it for your 4-6 pinned repos.
+##### It may still just be in fact school work but it is rebranded and gives a different impression: it speaks with a voice from you, not the school or tutorial. It is literally just rewording a few words in your description: I recommend doing this with everything and at least doing it for your 4-6 pinned repos.
 
 
 # Have 4-6 Pinned repositories with full Readmes
@@ -214,9 +215,14 @@ This is my pure biased opinion- I really like it when I see someone has starred 
 
 # OSS Contributions: the gold standard
 
-I can't do this topic justice: it deserves a whole blog to itself. I am also not the best to write about it because I have no particular open source contributions to my name on Github.
+I can't do this topic justice: it deserves a whole blog to itself. ~~I am also not the best to write about it because I have no particular open source contributions to my name on Github.~~
 
-Open source contributions are arguably the best currency in your belt on GitHub towards getting a job and worth researching getting involved.
+## Updated 2023/2024:
+
+In line with my own advice, my GitHub ReadME contains basic information about open source contributions:
+
+I have made small public contributions to the [MDN Web Docs](https://github.com/mdn/content/pull/24346#issuecomment-1493051463), [Sustainable Web Design Community Group](https://github.com/w3c/sustyweb/releases/tag/v1.0-D2), and [WebPageTest documentation](https://github.com/WPO-Foundation/webpagetest-docs/pull/81). This profile is mostly personal projects to learn new things. 
+
 
 # And with all that said...
 

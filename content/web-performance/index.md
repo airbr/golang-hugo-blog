@@ -23,8 +23,6 @@ Then, in no particular order, I reccomend entering a website you are interested 
 
 There are lots of resources out there, but first you should run some tests and get your curiosity flowing!
 
-All the resources and community are out there and it is just more a matter of sparking that initial interest to get you going is my philosophy. 
+### Next: Performance Monitoring, but first, run some tests!
 
-{{< rawhtml >}}
-<img src="https://api.thegreenwebfoundation.org/greencheckimage/www.morganwebdev.org?nocache=true" alt="This website is hosted Green - checked by thegreenwebfoundation.org">
-{{< /rawhtml >}}
+All the resources and community are out there and it is just more a matter of sparking that initial interest to get you going is my philosophy. 
