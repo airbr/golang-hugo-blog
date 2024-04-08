@@ -1,7 +1,7 @@
 ---
 title: "Testing a small website with lots of tools"
 date: 2023-11-22T12:00:00-08:00
-draft: false
+draft: true
 show_reading_time: true
 tags: 
     - Playwright
@@ -104,4 +104,4 @@ Running 1 test using 1 worker
 
 ---
 
-### Conclusion: it is a very fast website. It is WCAG compatible under an Axe test.
+### Conclusion: it is a very fast website. It is potentially WCAG compatible under an Axe test, but manual testing would be needed to confirm.
