@@ -1,7 +1,7 @@
 ---
 title: "Some of Morgan Murrah's 2023: technical volunteering!"
 date: 2023-12-30T12:00:00-08:00
-draft: false
+draft: true
 show_reading_time: true
 tags: 
     - Marriage
