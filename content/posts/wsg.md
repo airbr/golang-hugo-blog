@@ -20,7 +20,7 @@ featured_image: /w3c.github.io_sustyweb_(iPad Air).png
 
 As of recently I am now a participant in the W3C community group and if things go well I will be able to contribte something to an important set of guidelines!
 
-# [Link to my volunteer Github issues and contributions](https://github.com/w3c/sustyweb/issues?q=is%3Aissue+author%3A%40me+is%3Aclosed)
+# [Link to my volunteer Github issues and contributions](https://github.com/w3c/sustyweb/issues?q=is%3Aissue+author%3Aairbr+is%3Aclosed+)
 
 {{< rawhtml >}}
 <details>
