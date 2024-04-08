@@ -1,7 +1,7 @@
 ---
 title: "Bachelor of Laws (LLB) and admission ceremony"
 date: 2023-09-17T8:00:00-08:00
-draft: false
+draft: true
 tags: 
     - LLB
     - Education
