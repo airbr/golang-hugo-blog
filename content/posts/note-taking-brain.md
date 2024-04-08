@@ -1,7 +1,7 @@
 ---
 title: "Building a second brain with notes? Let's see..."
 date: 2024-01-18T12:00:00-08:00
-draft: false
+draft: true
 show_reading_time: true
 tags: 
     - Note-taking

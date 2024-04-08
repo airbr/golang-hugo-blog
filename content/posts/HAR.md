@@ -1,7 +1,7 @@
 ---
 title: "HTTP Archive Record's and Manual Scraping"
 date: 2023-11-10T12:00:00-08:00
-draft: false
+draft: true
 show_reading_time: true
 read_more_copy: Read More about HTTP Archive Records and scraping websites...
 tags: 
@@ -11,7 +11,7 @@ tags:
     - Proxyman
     - HTTP
     - DevTools
-blurb: How I scraped all the images from my Instagram feed for safe keeping
+blurb: How I scraped all the images from my feed for safe keeping
 featured_image: /har-file-lg.webp
 ---
 

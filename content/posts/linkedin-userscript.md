@@ -1,7 +1,7 @@
 ---
 title: "Linkedin Userscript: ✂️ the distractions"
 date: 2023-08-26T8:00:00-08:00
-draft: false
+draft: true
 tags: 
     - userscript
     - Linkedin

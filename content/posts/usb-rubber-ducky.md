@@ -1,7 +1,7 @@
 ---
 title: "USB Rubber Ducky experience"
 date: 2023-08-05T8:00:00-08:00
-draft: false
+draft: true
 tags: 
     - programming
     - hardware

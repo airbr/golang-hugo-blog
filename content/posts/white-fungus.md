@@ -1,7 +1,7 @@
 ---
 title: "White Fungus 17th Issue"
 date: 2023-05-28T8:00:00-08:00
-draft: false
+draft: true
 tags: 
    - White Fungus
    - Magazine
