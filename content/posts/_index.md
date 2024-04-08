@@ -6,5 +6,5 @@ description: "Web Development and Misc."
 theme_version: '2.8.2'
 # cascade:
 #   featured_image: '/images/gohugo-default-sample-hero-image.jpg'
-featured_image: '/flagofbellingham.svg'
+featured_image: '/opito-hero-lg.jpg'
 ---
