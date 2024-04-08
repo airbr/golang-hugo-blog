@@ -9,7 +9,7 @@ tags:
     - web design
     - open source
     - w3c
-show_reading_time: false
+show_reading_time: true3
 read_more_copy: Check out the Web Sustainability Guidelines (Work in Progress) published by the W3C Sustainable Web Design Community Group...
 featured_image: /w3c.github.io_sustyweb_(iPad Air).png
 ---
@@ -20,11 +20,11 @@ featured_image: /w3c.github.io_sustyweb_(iPad Air).png
 
 As of recently I am now a participant in the W3C community group and if things go well I will be able to contribte something to an important set of guidelines!
 
-# [My Github issues and contributions](https://github.com/w3c/sustyweb/issues?q=is%3Aissue+author%3A%40me+is%3Aclosed)
+# [Link to my volunteer Github issues and contributions](https://github.com/w3c/sustyweb/issues?q=is%3Aissue+author%3A%40me+is%3Aclosed)
 
 {{< rawhtml >}}
 <details>
-  <summary>Some highlights so far I have noted from my personal experiences with web performance: (expand)</summary>
+  <summary>Some highlights so far I have noted from my personal experiences with web performance that seem to be in the Guidelines: (expand)</summary>
     <ul>
     <li>2.6 Create a Frictionless Lightweight Experience By Default</li>
     <li>2.7 Avoid Unnecessary Or An Overabundance Of Assets</li>
