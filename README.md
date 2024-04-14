@@ -5,7 +5,3 @@
 I will customize this blog further as I go. 
 
 See Hugo documentation to make sense of this site.
-
-### Screenshots
-DESKTOP
-![](/static/desktop.png)
