@@ -1,7 +1,7 @@
 ---
 title: Tools I use
 date: 2024-04-21 12:00:00
-description: "Good stuff in my view"
+description: "Good tools IMO"
 ---
 
 This is a non-exhaustive list of some stuff I use in a topic based order. People have asked me what I use:
@@ -17,6 +17,20 @@ This is a non-exhaustive list of some stuff I use in a topic based order. People
     <ul>
     <li>With OSX and UNIX it is easy to install software and also use it for daily tasks</li>
     <li>Linux gives you extra powers in the cloud and containers and more!</li>
+    <ul>
+</details>
+{{< /rawhtml >}}
+
+### Coffee
+
+1. [Glass Carafe Brewer from Mocca master](https://us.moccamaster.com/collections/glass-carafe-brewers/products/kb)
+2. Baratza grinder 
+
+{{< rawhtml >}}
+<details>
+  <summary>Why:</summary>
+    <ul>
+    <li>Just superb coffee</li>
     <ul>
 </details>
 {{< /rawhtml >}}
@@ -86,7 +100,7 @@ This is a non-exhaustive list of some stuff I use in a topic based order. People
 <details>
   <summary>Why:</summary>
     <ul>
-    <li>Wanted a change, got a lofi experience with this!</li>
+    <li>Wanted a change, got a lofi experience with this mechanical keyboard!</li>
     <ul>
 </details>
 {{< /rawhtml >}}
