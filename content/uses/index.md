@@ -1,7 +1,7 @@
 ---
-title: Tools I use
+title: Tools
 date: 2024-04-21 12:00:00
-description: "Tools I use -- morganwebdev.org"
+description: "Stuff I use"
 ---
 
 This is a non-exhaustive list of some stuff I use in a topic based order. People have asked me what I use:
@@ -56,7 +56,23 @@ This is a non-exhaustive list of some stuff I use in a topic based order. People
 <details>
   <summary>Why:</summary>
     <ul>
-    <li>The environment.</li>
+    <li>The environment</li>
+    <ul>
+</details>
+{{< /rawhtml >}}
+
+### Browser Support
+
+* [As many of them as possible](https://caniuse.com) but with some specific uses 
+    *   I use Chrome Dev Tools mostly for performance and web development purposes
+    *   Firefox for personal browsing
+        *   Firefox focus for mobile browsing 
+
+{{< rawhtml >}}
+<details>
+  <summary>Why:</summary>
+    <ul>
+    <li>This could be a big blog post for sure! hmmm. Cross browser support and understanding is helpful and sometime really critical.</li>
     <ul>
 </details>
 {{< /rawhtml >}}
