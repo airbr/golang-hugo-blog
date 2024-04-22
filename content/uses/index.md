@@ -1,7 +1,7 @@
 ---
-title: Tools
+title: Tools I use
 date: 2024-04-21 12:00:00
-description: "Stuff I use"
+description: "Good stuff in my view"
 ---
 
 This is a non-exhaustive list of some stuff I use in a topic based order. People have asked me what I use:
