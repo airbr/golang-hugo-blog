@@ -61,18 +61,32 @@ This is a non-exhaustive list of some stuff I use in a topic based order. People
 </details>
 {{< /rawhtml >}}
 
-### Browser Support
+### Browser
 
-* [As many of them as possible](https://caniuse.com) but with some specific uses 
+* [As many of them as possible for development](https://caniuse.com) but with some specific uses 
     *   I use Chrome Dev Tools mostly for performance and web development purposes
     *   Firefox for personal browsing
-        *   Firefox focus for mobile browsing 
+        *   Firefox Focus for mobile browsing 
 
 {{< rawhtml >}}
 <details>
   <summary>Why:</summary>
     <ul>
-    <li>This could be a big blog post for sure! hmmm. Cross browser support and understanding is helpful and sometime really critical.</li>
+    <li>This could be a big blog post for sure! hmmm. Cross browser support and understanding is helpful and sometime really critical. Being able to use many tools is a good skill.</li>
+    <ul>
+</details>
+{{< /rawhtml >}}
+
+### Keyboard 
+
+* [LOFREE BLOCK Wireless Mechanical Keyboard](https://www.lofree.co/products/lofree-block-wireless-mechanical-keyboard-1) 
+* MacBook Pro keyboard, has a touchpad
+
+{{< rawhtml >}}
+<details>
+  <summary>Why:</summary>
+    <ul>
+    <li>Wanted a change, got a lofi experience with this!</li>
     <ul>
 </details>
 {{< /rawhtml >}}
