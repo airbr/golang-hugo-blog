@@ -44,7 +44,7 @@ enableRobotsTXT = true
   weight = 4
 [[menu.main]]
   identifier = 'morganwebdev.com'
-  name = 'more links at morganwebdev.com'
+  name = 'more at morganwebdev.com'
   pre = "<i class='fa fa-heart'></i>"
   url = 'https://morganwebdev.com'
   weight = 5
