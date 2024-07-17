@@ -1,4 +1,4 @@
----
+<!-- ---
 title: Bellingham
 date: 2023-11-10 12:00:00
 ---
@@ -13,4 +13,4 @@ I love the [Pacific Northwest](https://en.wikipedia.org/wiki/Pacific_Northwest):
 
 [Slogan of Bellingham: City of Subdued Excitement](https://www.cascadiadaily.com/news/2022/feb/23/whats-the-deal-with-bellinghams-unofficial-slogan/)
 
-[I support Community First Whatcom](https://www.communityfirstwhatcom.org/)
+[I support Community First Whatcom](https://www.communityfirstwhatcom.org/) -->
