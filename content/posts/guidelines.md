@@ -1,6 +1,6 @@
 ---
 title: "Web Performance Guidelines: New Zealand"
-date: 2023-08-04T12:00:00-08:00
+date: 2024-08-04T12:00:00-08:00
 draft: false
 show_reading_time: true
 read_more_copy: Read More about public web performance guidelines...
