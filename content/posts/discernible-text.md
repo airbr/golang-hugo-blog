@@ -10,7 +10,6 @@ tags:
     - Anchor Tags
 featured_image: /discernible-text-link.png
 ---
-<article class="discernible">
 The Anchor tag is a powerhouse of the web. It is basically what has made hyperlinking with HTML work. I could go on to say that countless fortunes and paths of history start with an anchor tag link going somewhere new.
 
 It is important that we use anchor tags in a way that is optimal with assistive technology. One of these ways is to ensure that [**Links have discernible text**](https://dequeuniversity.com/rules/axe/4.1/link-name). 
