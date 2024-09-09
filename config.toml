@@ -43,17 +43,9 @@ enableRobotsTXT = true
   url = '/web-performance/'
   weight = 4
 [[menu.main]]
-  identifier = 'morganwebdev.com'
-  name = 'more at morganwebdev.com'
-  pre = "<i class='fa fa-heart'></i>"
-  url = 'https://morganwebdev.com'
-  weight = 5
-  [menu.main.params]
-    class = 'highlight-menu-item'
-[[menu.main]]
   identifier = 'uses'
   name = 'tools I use'
   pre = "<i class='fa fa-heart'></i>"
   url = '/uses/'
-  weight = 6
+  weight = 5
     
