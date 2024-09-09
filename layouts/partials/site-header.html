@@ -20,12 +20,12 @@
   <header>
     <div style="background: {{ .Params.background }}; color: {{ .Params.text_color }}" class="pb3-m pb3-l {{ .Site.Params.background_color_class | default "" }}">
       {{ partial "site-navigation.html" . }}
-      <div class="tc-l pv3 ph3 ph4-ns">
-        <h1 class="f2 f-subheadline-l fw2 mb0 lh-title">
+      <div class="tc-l pv3 ph3 ph4-ns center" style="">
+        <h1 style="" class="f2 f-subheadline-l fw2 center mb0 lh-title">
           {{ .Title | default .Site.Title }}
         </h1>
         {{ with .Params.description }}
-          <h2 class="f3 f3-l measure-wide-l center lh-copy mt0 mb0">
+          <h2 style="" class="f3 f3-l measure-wide-l center lh-copy mt0 mb0">
             {{ . }}
           </h2>
         {{ end }}

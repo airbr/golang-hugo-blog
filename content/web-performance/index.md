@@ -9,7 +9,7 @@ text_color: 'black'
 
 I love web performance. It is a mixture of the kinds of challenges I love.
 
-This website is statically generated with [Hugo](https://gohugo.io/) for performance. Static site generators mean that useful HTML is prioritized first, and therefore performance usually improves on some key metrics. 
+This website is statically generated with [Hugo](https://gohugo.io/) for performance. Static site generators mean that useful HTML is prioritized first in what is delivered to a browser usually. For this reason therefore performance usually improves on some key metrics. It works pretty fast! It is also pretty basic because I like it that way sometimes.  
 
 Have you tried running tests before on websites? Consider checking out a local Lighthouse test run for a start:
 

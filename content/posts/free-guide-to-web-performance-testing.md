@@ -20,6 +20,10 @@ read_more_copy: Read more about free web performance testing techniques...
 featured_image: /morganwebdevdotorg.gif
 ---
 
+## Update Sept 2024: This article is slightly out of date. FID is no longer a Core Web Vital, and I would give slightly different advice in September of 2024 than last year. Will update more!
+
+---
+
 ### This is how I test websites for performance with free or freemium tools. 
 
 I have tried a few web performance tools and this how I do it when I really want to refine and investigate a deployment or the current state of a website. I also do this method when I want to do it for free on an individual basis: a lot of this stuff is automated by paid tools for you.

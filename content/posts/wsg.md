@@ -22,7 +22,9 @@ As of recently I am now a participant in the W3C community group and if things g
 
 ### [Link to my volunteer Github issues and contributions](https://github.com/w3c/sustyweb/issues?q=is%3Aissue+author%3Aairbr+is%3Aclosed+)
 
-See release notes for D2, D6 for examples of `@airbr` being credited for contributions.
+See release notes for D2, D6 for examples of `@airbr` being credited for contributions. That is me!
+
+---
 
 {{< rawhtml >}}
 <details>
