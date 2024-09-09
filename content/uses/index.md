@@ -1,10 +1,10 @@
 ---
 title: Tools I use
-date: 2024-04-21 12:00:00
-description: "Good tools IMO"
+date: 2024-08-08 12:00:00
+description: "Good tools in my view"
 ---
 
-This is a non-exhaustive list of some stuff I use in a topic based order. People have asked me what I use:
+This is a non-exhaustive list of some stuff I use in a topic based order. People have asked me what I use. Click on the arrows for a dropdown explanation of why.
 
 ### OS
 
@@ -37,8 +37,8 @@ This is a non-exhaustive list of some stuff I use in a topic based order. People
 
 ### Writing tools
 
-* [Obsidian](https://obsidian.md/)
-* [Logseq](https://logseq.com/)
+* [Obsidian mostly](https://obsidian.md/)
+* [Logseq sometimes](https://logseq.com/)
 
 {{< rawhtml >}}
 <details>
@@ -101,6 +101,19 @@ This is a non-exhaustive list of some stuff I use in a topic based order. People
   <summary>Why:</summary>
     <ul>
     <li>Wanted a change, got a lofi experience with this mechanical keyboard!</li>
+    <ul>
+</details>
+{{< /rawhtml >}}
+
+### Web Components  
+
+* Framework-less components for now!
+
+{{< rawhtml >}}
+<details>
+  <summary>Why:</summary>
+    <ul>
+    <li>Trying to learn the core concepts first.</li>
     <ul>
 </details>
 {{< /rawhtml >}}

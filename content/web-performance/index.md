@@ -1,19 +1,21 @@
 ---
 title: Web Performance
-date: 2023-02-21 12:00:00
+date: 2024-08-08 12:00:00
+background: 'whitesmoke'
+text_color: 'black'
 ---
 
 👋 Hey there
 
 I love web performance. It is a mixture of the kinds of challenges I love.
 
-This website is statically generated with [Hugo](https://gohugo.io/) for performance.
+This website is statically generated with [Hugo](https://gohugo.io/) for performance. Static site generators mean that useful HTML is prioritized first, and therefore performance usually improves on some key metrics. 
 
-Have you tried running tests before on websites? Consider checking out Lighthouse for a start:
+Have you tried running tests before on websites? Consider checking out a local Lighthouse test run for a start:
 
 * [Lighthouse - Chrome DevTools](https://developer.chrome.com/docs/lighthouse/overview/#devtools)
 
-Ideally you should be using several tools to gain a bigger picture. 
+Ideally you should be using several tools to gain a bigger picture. Local "lab" tests have limitations. 
 
 Then, in no particular order, I reccomend entering a website you are interested in into some of the following:
 
@@ -25,4 +27,7 @@ There are lots of resources out there, but first you should run some tests and g
 
 ### Next: Performance Monitoring, but first, run some tests!
 
-All the resources and community are out there and it is just more a matter of sparking that initial interest to get you going is my philosophy. 
+All the resources and community are out there and it is just more a matter of sparking that initial interest to get you going is my philosophy.
+
+
+### Preview: Performance Monitoring, product review of Speedcurve.

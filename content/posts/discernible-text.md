@@ -8,7 +8,10 @@ tags:
     - Discernible Text
     - Links
     - Anchor Tags
+blurb: Lets improve accessibility with this one introductory best practice!    
 featured_image: /discernible-text-link.png
+read_more_copy: Read More...
+
 ---
 The Anchor tag is a powerhouse of the web. It is basically what has made hyperlinking with HTML work. I could go on to say that countless fortunes and paths of history start with an anchor tag link going somewhere new.
 
@@ -28,17 +31,4 @@ Other examples could include a button with an SVG Icon within it but no text. Th
 
 `<a aria-label="Go to Example dot com" href="https://example.com"><img src="example.png"></a>`.
 
-An Aria Label in this instance allows a screenreader to read what the link does.
-
-<!-- ### Example: Large Central Focusable Image Element (with no discernible text)
-
-![](/discernible-text-link.png)
-
-</article>
-
-
-
-
-
-
-Web Component: `a-` -->
+An Aria Label in this instance allows a screenreader to read what the link does with more accessibility.
