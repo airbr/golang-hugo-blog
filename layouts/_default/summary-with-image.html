@@ -17,8 +17,8 @@
             </a>
         </h2>
         {{ if (.Param "show_reading_time") }}
-        <span class="f6 mv3 dib tracked"> {{ i18n "readingTime" .ReadingTime }} </span>
-        <span class="f6 mv3 dib tracked"> - {{ i18n "wordCount" .WordCount }} </span>
+        <!-- <span class="f6 mv3 dib tracked"> {{ i18n "readingTime" .ReadingTime }} </span> -->
+        <span class="f3 mv3 dib tracked">{{ i18n "wordCount" .WordCount }} </span>
         {{ end }}
         {{ if (.Param "blurb") }}
         <a href="{{ .RelPermalink }}" class="link black dim">

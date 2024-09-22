@@ -2,7 +2,7 @@
 title: "Discernible Text: Improving accessibility"
 date: 2024-08-22T12:00:00-08:00
 draft: false
-show_reading_time: false
+show_reading_time: true
 tags: 
     - Aria
     - Discernible Text

@@ -1,9 +1,10 @@
 ---
 title: About me
-date: 2024-05-12 12:00:00
+date: 2024-09-21 12:00:00
 ---
 
-👋 Hey there! My name is Morgan. I am an [American New Zealander](https://en.wikipedia.org/wiki/American_New_Zealanders) living in [Bellingham, Washington State](https://en.wikipedia.org/wiki/Bellingham,_Washington).
+👋 Hey there! My name is Morgan. I am an [American New Zealander](https://en.wikipedia.org/wiki/American_New_Zealanders) living in the USA. morgan [at] morganwebdev.com is my email!
+
 
 # Undergraduate Degrees
 * [LLB Otago University, Dunedin, New Zealand](https://www.otago.ac.nz/courses/qualifications/llb) -- [2013](https://www.odt.co.nz/news/dunedin/university-otago-graduands-december-14-2013)
@@ -13,7 +14,7 @@ date: 2024-05-12 12:00:00
 
 * [Lightning-Fast Web Performance Certificate of Achievement -- 2023](/img/Morgan-Murrah-lightning-fast-web-performance.png)
 
-* General Assembly Atlanta Web Development Immersive -- 2016
+* General Assembly Web Development Immersive -- 2016
 
 * [Enrolled Barrister and Solicitor of the High Court of New Zealand -- 2015](https://www.lawsociety.org.nz/starting-as-a-lawyer/admitted-but-no-practising-certificate/)
 

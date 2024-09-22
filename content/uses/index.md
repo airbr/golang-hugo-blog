@@ -37,8 +37,13 @@ This is a non-exhaustive list of some stuff I use in a topic based order. People
 
 ### Writing tools
 
+Writing:
 * [Obsidian mostly](https://obsidian.md/)
 * [Logseq sometimes](https://logseq.com/)
+
+Coding and writing Markdown:
+
+* Visual Studio Code
 
 {{< rawhtml >}}
 <details>

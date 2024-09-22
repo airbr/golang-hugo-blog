@@ -28,6 +28,3 @@ There are lots of resources out there, but first you should run some tests and g
 ### Next: Performance Monitoring, but first, run some tests!
 
 All the resources and community are out there and it is just more a matter of sparking that initial interest to get you going is my philosophy.
-
-
-### Preview: Performance Monitoring, product review of Speedcurve.

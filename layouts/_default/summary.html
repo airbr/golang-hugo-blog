@@ -13,8 +13,8 @@ More info here: https://github.com/theNewDynamic/gohugo-theme-ananke/releases/ta
     {{ if (.Param "show_reading_time") }}
     <a href="{{ .RelPermalink }}" class="link black dim">
 
-        <span class="f4 mv3 dib tracked"> {{ i18n "readingTime" .ReadingTime }} </span>
-        <span class="f4 mv3 dib tracked"> - {{ i18n "wordCount" .WordCount }} </span>
+        <!-- <span class="f4 mv3 dib tracked"> {{ i18n "readingTime" .ReadingTime }} </span> -->
+        <span class="f4 mv3 dib tracked">{{ i18n "wordCount" .WordCount }} </span>
       </a>
     {{ end }}
     <!-- <div class="nested-links f5 lh-copy nested-copy-line-height">
