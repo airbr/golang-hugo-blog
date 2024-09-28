@@ -3,8 +3,16 @@ title: About me
 date: 2024-09-21 12:00:00
 ---
 
-👋 Hey there! My name is Morgan. I am an [American New Zealander](https://en.wikipedia.org/wiki/American_New_Zealanders) living in the USA. morgan [at] morganwebdev.com is my email!
+👋 Hey there! My name is Beau **Morgan** Murrah. Morgan is my preferred name. I am an [American New Zealander](https://en.wikipedia.org/wiki/American_New_Zealanders) living in the USA. morgan [at] morganwebdev.com is my email!
 
+# Technology Career
+
+* [Toolhouse](https://toolhouse.com/), a CG Life Company, 2023-2024+
+  * Digital Content Manager
+* WompMobile (now DexCare), 2021-2022
+  * Production Developer
+* [EasyRx](https://easyrxcloud.com/), 2017-2021
+  * Software Developer
 
 # Undergraduate Degrees
 * [LLB Otago University, Dunedin, New Zealand](https://www.otago.ac.nz/courses/qualifications/llb) -- [2013](https://www.odt.co.nz/news/dunedin/university-otago-graduands-december-14-2013)
@@ -13,32 +21,26 @@ date: 2024-09-21 12:00:00
 # Certificates & Certifications
 
 * [Lightning-Fast Web Performance Certificate of Achievement -- 2023](/img/Morgan-Murrah-lightning-fast-web-performance.png)
-
-* General Assembly Web Development Immersive -- 2016
-
+* [General Assembly Web Development Immersive -- 2016](/certiificate-of-completion-beau-morgan-murrah.pdf)
 * [Enrolled Barrister and Solicitor of the High Court of New Zealand -- 2015](https://www.lawsociety.org.nz/starting-as-a-lawyer/admitted-but-no-practising-certificate/)
-
 * [Professional Legal Studies Certificate of Completion -- 2014](https://www.collaw.ac.nz/)
 
 
 # Open Source Contributions
 
-* [Contributor to 5 Draft Releases of the Web Sustainability Guidelines 1.0 by the W3C Sustainable Web Design Community Group](https://github.com/w3c/sustyweb/issues?q=is%3Aissue+author%3Aairbr+is%3Aclosed+)
-> [v1.0-D2](https://github.com/w3c/sustyweb/releases/tag/v1.0-D2)
-[v1.0-D3](https://github.com/w3c/sustyweb/releases/tag/v1.0-D3)
-[v1.0-D4](https://github.com/w3c/sustyweb/releases/tag/v1.0-D4)
-[v1.0-D5](https://github.com/w3c/sustyweb/releases/tag/v1.0-D5)
-[v1.0-D6](https://github.com/w3c/sustyweb/releases/tag/v1.0-D6)
+[Contributor to 5 Draft Releases of the Web Sustainability Guidelines 1.0 by the W3C Sustainable Web Design Community Group](https://github.com/w3c/sustyweb/issues?q=is%3Aissue+author%3Aairbr+is%3Aclosed+):
+* [v1.0-D2](https://github.com/w3c/sustyweb/releases/tag/v1.0-D2)
+* [v1.0-D3](https://github.com/w3c/sustyweb/releases/tag/v1.0-D3)
+* [v1.0-D4](https://github.com/w3c/sustyweb/releases/tag/v1.0-D4)
+* [v1.0-D5](https://github.com/w3c/sustyweb/releases/tag/v1.0-D5)
+* [v1.0-D6](https://github.com/w3c/sustyweb/releases/tag/v1.0-D6)
 
+---
 
 * [MDN Web Docs glossary contribution](https://github.com/mdn/content/pull/24346#issuecomment-1493051463)
-
-* [WebPageTest documentation small fix](https://github.com/WPO-Foundation/webpagetest-docs/pull/81)
-
+* [WebPageTest documentation fix](https://github.com/WPO-Foundation/webpagetest-docs/pull/81)
 * [OpenLaw New Zealand -- JavaScript coding volunteer 2020](https://www.openlaw.nz/)
-
 * [Civic Tech Atlanta -- MARTA Hackathon 2016](https://www.civictechatlanta.org/)
-
 * [Award winning hackathon team: GovHack 2015](https://www.odt.co.nz/news/dunedin/dunedin-website-team-wins-nationwide-competition)
 
 # Conferences 
