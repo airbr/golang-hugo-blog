@@ -12,10 +12,12 @@ featured_image: /spencer-demera-UM21BXD8OU0-unsplash.jpg
 read_more_copy: Read More...
 ---
 
-I suggest to welcome the Fall and Winter for they are natural parts of the seasons and give a richness and vibrancy to life. I am intending to welcome the changing season the best I can. This fall I am working on some various goals:
+I plan to welcome the fall and winter this year for they are natural parts of the seasons and give a richness and vibrancy to life. I am intending to welcome the changing season the best I can. This fall I am working on some various goals:
 
 * Relaxation
 * Sustainability
+
+I will continue to maintain this website, with infrequent updates through the season.
 
 --- 
 

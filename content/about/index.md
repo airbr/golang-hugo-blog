@@ -21,7 +21,7 @@ date: 2024-09-21 12:00:00
 # Certificates & Certifications
 
 * [Lightning-Fast Web Performance Certificate of Achievement -- 2023](/img/Morgan-Murrah-lightning-fast-web-performance.png)
-* [General Assembly Web Development Immersive -- 2016](/certiificate-of-completion-beau-morgan-murrah.pdf)
+* General Assembly Web Development Immersive -- 2016
 * [Enrolled Barrister and Solicitor of the High Court of New Zealand -- 2015](https://www.lawsociety.org.nz/starting-as-a-lawyer/admitted-but-no-practising-certificate/)
 * [Professional Legal Studies Certificate of Completion -- 2014](https://www.collaw.ac.nz/)
 
