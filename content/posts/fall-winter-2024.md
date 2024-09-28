@@ -21,7 +21,7 @@ I suggest to welcome the Fall and Winter for they are natural parts of the seaso
 
 ### Relaxation
 
-Relaxing obviously ideally comes naturally. When it doesn't, consider the whole list of things going on in your life and see how you can optimize as many as possible so that relaxation just starts to happen. A key ingredient in this process is the ability to subtract things. To have less on ones plate, so that there is less to worry about.
+Relaxing obviously ideally comes naturally. When it doesn't, consider the whole list of things going on in your life and see how you can optimize as many as possible so that relaxation just starts to happen. A key ingredient in this process is the ability to subtract things where possible to have less on ones plate so that there is less to worry about.
 
 I am playing Tennis on some fall days still- Exercise does actually help a great deal to relax.
 
@@ -30,7 +30,7 @@ In terms of positive things that I am thankful for:
 * Plenty of good sparkling water
 * Big deep breathes
 
-Just with a few of these things you can be on track for a relaxed day.
+With a few of these things you can be on track for a relaxed day.
 
 ### Sustainability
 
