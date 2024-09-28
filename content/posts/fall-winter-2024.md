@@ -7,7 +7,10 @@ tags:
     - Goals
     - Motivation
     - Sustainability
-blurb: Working on some things into late 2024...    
+    - W3C
+    - WSG
+    - Web Sustainability Guidelines
+blurb: Working on some things into late 2024, relaxing and sustainability...    
 featured_image: /spencer-demera-UM21BXD8OU0-unsplash.jpg
 read_more_copy: Read More...
 ---
