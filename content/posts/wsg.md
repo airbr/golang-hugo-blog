@@ -9,6 +9,7 @@ tags:
     - web design
     - open source
     - w3c
+    - Web Sustainability Guidelines
 show_reading_time: true3
 read_more_copy: Check out the Web Sustainability Guidelines Drafts published by the W3C Sustainable Web Design Community Group...
 featured_image: /w3c.github.io_sustyweb_(iPad Air).png

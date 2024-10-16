@@ -6,6 +6,10 @@ tags:
    - Debugging
    - Zines
    - Software
+   - Command Line
+   - UNIX
+   - Shell
+   - Problem Solving
 show_reading_time: true
 read_more_copy: Read more about Debugging...
 
