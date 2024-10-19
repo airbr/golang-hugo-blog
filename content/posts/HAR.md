@@ -15,9 +15,9 @@ blurb: How to export images from an infinite scrolling pattern website
 featured_image: /har-file-lg.webp
 ---
 
-This blog explains one method for exporting images from a website that has a scrolling feed where images are loaded sequentially as the user scrolls the feature. Some Apps do not make it easy to export your images in one swoop and so this method uses HAR files recorded in the web browser to capture the images manually.
+This blog explains one method for exporting images from a website that has a scrolling feed where images are loaded sequentially as the user scrolls the feature. Some websites do not make it easy to export images in one swoop and so this method uses HAR files recorded in the web browser to capture the images manually.
 
-I was able to successfully capture several hundred images in one HAR file and repeat the steps multiple times to capture my entire timline of my account on a social media website with over a thousand images. I was then able to export the images with a program called Proxyman in one or two clicks. It is a rough technique but flexible and better than screenshotting images.
+I was able to successfully capture several hundred images in one HAR file and repeat the steps multiple times to capture my entire timeline of my account on a social media website with over a thousand images. I was then able to export the images with a program called Proxyman in one or two clicks. It is a rough technique but flexible and better than screenshotting images.
 
 Note; the image quality may vary using this technique, and you might end up with a bunch of icons and non useful images using this technique. Your mileage may vary.
 
