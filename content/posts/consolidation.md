@@ -1,7 +1,7 @@
 ---
 title: "Consolidation of a vast web empire"
 date: 2024-09-21T12:00:00-08:00
-draft: false
+draft: true
 show_reading_time: true
 tags: 
     - Philosophy

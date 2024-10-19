@@ -3,7 +3,7 @@ title: About Morgan Murrah
 date: 2024-10-14 12:00:00
 ---
 
-👋 Hey there! My name is Beau Morgan Murrah. Morgan is my preferred name. I am an [American New Zealander](https://en.wikipedia.org/wiki/American_New_Zealanders) living in the USA. 
+👋 Hey there! My name is Beau Morgan Murrah. Morgan is my preferred name. I am an [American New Zealander](https://en.wikipedia.org/wiki/American_New_Zealanders) living in the USA.
 
 # Technology Career
 
