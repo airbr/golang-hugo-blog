@@ -1,6 +1,6 @@
 ---
 title: "HTTP Archive Record's and Manual Exporting of Images"
-date: 2024-10-17T12:00:00-08:00
+date: 2024-07-17T12:00:00-08:00
 draft: false
 show_reading_time: true
 read_more_copy: Read More about HTTP Archive Records
