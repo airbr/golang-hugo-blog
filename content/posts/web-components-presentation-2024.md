@@ -36,10 +36,10 @@ featured_image: /web-components-cover.png
 
 * Introduction
 * Thank you's/inspiration
-* HTML
+* HTML   
 * CSS
 * JS
-* DOM
+* Document Object Model
 * Web Components
 * Custom Elements Specifically
 * An example website, with the Bellingham Codes Logo as a Component
