@@ -1,9 +1,8 @@
 ---
 title: Tools I use
-date: 2024-08-08 12:00:00
-description: "Good tools in my view"
+date: 2024-10-18 12:00:00
+description: "Good tools in my view; a lot of good HTML, mainly"
 ---
-
 
 # HTML
 # CSS

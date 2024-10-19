@@ -1,9 +1,9 @@
 ---
-title: "HTTP Archive Record's and Manual Scraping"
-date: 2023-11-10T12:00:00-08:00
-draft: true
+title: "HTTP Archive Record's and Manual Exporting of Images"
+date: 2024-10-17T12:00:00-08:00
+draft: false
 show_reading_time: true
-read_more_copy: Read More about HTTP Archive Records and scraping websites...
+read_more_copy: Read More about HTTP Archive Records
 tags: 
     - HAR
     - Browser Dev Tools
@@ -11,13 +11,15 @@ tags:
     - Proxyman
     - HTTP
     - DevTools
-blurb: How I scraped all the images from my feed for safe keeping
+blurb: How to export images from an infinite scrolling pattern website
 featured_image: /har-file-lg.webp
 ---
 
-This blog explains one method for scraping images from a website that has a scrolling feed such as Instagram. Some Apps may not make it easy to export your images in one swoop and so this method uses HAR files recorded in the web browser to capture the images manually.
+This blog explains one method for exporting images from a website that has a scrolling feed where images are loaded sequentially as the user scrolls the feature. Some Apps do not make it easy to export your images in one swoop and so this method uses HAR files recorded in the web browser to capture the images manually.
 
-I was able to successfully capture several hundred images in one HAR file and repeat the steps multiple times to capture my entire Instagram feed with over a thousand images. I was then able to export the images with a program called Proxyman in one or two clicks. It is a rough technique but flexible and better than screenshotting images.
+I was able to successfully capture several hundred images in one HAR file and repeat the steps multiple times to capture my entire timline of my account on a social media website with over a thousand images. I was then able to export the images with a program called Proxyman in one or two clicks. It is a rough technique but flexible and better than screenshotting images.
+
+Note; the image quality may vary using this technique, and you might end up with a bunch of icons and non useful images using this technique. Your mileage may vary.
 
 ## What are [HAR files](https://en.wikipedia.org/wiki/HAR_(file_format))?
 ![HAR Files](/har-file-lg.webp)
@@ -36,7 +38,7 @@ This method requires:
 
 # 1
 
-Visit the website, for example, your instagram main feed. Open the Browser Dev Tools and go to the Network Tab. Click "Start recording" network log.
+Visit the website, for example, your apps infite scroll feed. Open the Browser Dev Tools and go to the Network Tab. Click "Start recording" network log.
 
 # 2
 
@@ -60,10 +62,7 @@ Open the HAR file with Proxyman, filter by Media in the top menu, and then selec
 
 Celebrate! Its a bit of a rough method but a handy trick. Perhaps consider deleting the HAR file when finished after this export procedure. 
 
-
-
-
-
+All you are doing is what your browser is already doing, by using dev tools you are merely levelling up the convenience of this feature.
 
 
 
