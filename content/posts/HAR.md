@@ -1,13 +1,12 @@
 ---
 title: "HTTP Archive Record's and Manual Exporting of Images"
 date: 2024-07-17T12:00:00-08:00
-draft: false
+draft: true
 show_reading_time: true
 read_more_copy: Read More about HTTP Archive Records
 tags: 
     - HAR
     - Browser Dev Tools
-    - Scraping
     - Proxyman
     - HTTP
     - DevTools
