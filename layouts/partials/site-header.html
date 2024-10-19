@@ -20,7 +20,7 @@
   <header>
     <div style="background: {{ .Params.background }}; color: {{ .Params.text_color }}" class="pb3-m pb3-l {{ .Site.Params.background_color_class | default "" }}">
       {{ partial "site-navigation.html" . }}
-      <div class="bg-light-green pv3 ph3 ph4-ns" style="">
+      <div class="main-header bg-light-green pv3 ph3 ph4-ns" style="">
         <h1 class="f2 f-subheadline-l fw2 mb0 lh-title">
           {{ .Title | default .Site.Title }}
         </h1>

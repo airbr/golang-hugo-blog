@@ -3,16 +3,15 @@ title: Tools I use
 date: 2024-10-18 12:00:00
 description: "Good tools in my view; a lot of good HTML, mainly"
 ---
-
+# Web Standards
 # HTML
-# CSS
-# JavaScript
-# PHP
-# UNIX
-# SHELL
-# Ruby on Rails
+## CSS
+### JavaScript
+#### PHP
+## UNIX
+## SHELL
+## Ruby on Rails
 # Web Components
-# React
 # Web Sustainability Guidelines
 
 This is a non-exhaustive list of some stuff I use in a topic based order. People have asked me what I use. Click on the arrows for a dropdown explanation of why.
