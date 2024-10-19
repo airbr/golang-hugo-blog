@@ -53,8 +53,8 @@ date: 2024-10-14 12:00:00
 
 # Cofounder
 
-* [Law For Change -- founding member of registered charity -- Dunedin, New Zealand 2012-2013](https://www.lawforchange.co.nz/)
-  * Attended a founding Hui at the Marae at Auckland Airport, helped fund raise money for projects and contributed to Parliamentary Select Committee submissions. Happy to report the charity is vibrant and active in 2024
+* [Law For Change -- co-founding member/participant of registered charity -- Dunedin, New Zealand 2012-2013](https://www.lawforchange.co.nz/)
+  * Attended a founding Hui at the Marae at Auckland Airport. I helped fund raise money for projects. I also contributed time to Parliamentary Select Committee submissions. Happy to report the charity is vibrant and active in 2024
 
 # Workplace Awards
 
