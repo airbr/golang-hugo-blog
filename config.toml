@@ -48,4 +48,9 @@ enableRobotsTXT = true
   pre = "<i class='fa fa-heart'></i>"
   url = '/uses/'
   weight = 5
-    
+[[menu.main]]
+  identifier = 'BellinghamWA'
+  name = 'BellinghamWA'
+  pre = "<i class='fa fa-heart'></i>"
+  url = '/Bellingham/'
+  weight = 6
