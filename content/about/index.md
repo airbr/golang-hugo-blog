@@ -5,14 +5,15 @@ date: 2024-10-14 12:00:00
 
 👋 Hey there! My name is Beau Morgan Murrah. Morgan is my preferred name. I am an [American New Zealander](https://en.wikipedia.org/wiki/American_New_Zealanders) living in the USA.
 
-# Technology Career
+<!-- Made this a comment since Im not actively looking for a role -->
+<!-- # Technology Career
 
 * [Toolhouse](https://toolhouse.com/), a CG Life Company, 2023-2024+
   * Digital Content Manager
 * [WompMobile](https://web.archive.org/web/20210302013723/http://www.wompmobile.com/) 2021-2022
   * Production Developer
 * [EasyRx](https://easyrxcloud.com/), 2017-2021
-  * Software Developer
+  * Software Developer -->
 
 # Undergraduate Degrees
 * [LLB -- Bachelor of Laws -- Otago University, Dunedin, New Zealand](https://www.otago.ac.nz/courses/qualifications/llb) -- [2013](https://www.odt.co.nz/news/dunedin/university-otago-graduands-december-14-2013)
@@ -40,7 +41,7 @@ date: 2024-10-14 12:00:00
 * [MDN Web Docs glossary contribution](https://github.com/mdn/content/pull/24346#issuecomment-1493051463)
 * [WebPageTest documentation fix](https://github.com/WPO-Foundation/webpagetest-docs/pull/81)
 * [OpenLaw New Zealand -- JavaScript coding volunteer 2020](https://www.openlaw.nz/)
-* Civic Tech Atlanta -- MARTA Hackathon 2016
+* Civic Tech Atlanta -- MARTA Hackathon 2016 participant
 * [Award winning hackathon team: GovHack 2015](https://www.odt.co.nz/news/dunedin/dunedin-website-team-wins-nationwide-competition)
 
 # Conferences 
