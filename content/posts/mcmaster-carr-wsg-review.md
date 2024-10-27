@@ -58,7 +58,9 @@ It is pretty awesome at some guidelines. But in terms of web performance it has 
 
 # Conclusion
 
-You may be locked within the realm of some particular stack, but there are always a variety of techniques that are available to help make your users happy. These go hand in hand with aiming to meet some of the User-Experience Design and performance described above. 
+You may feel locked within the realm of some particular stack but there are always a variety of techniques that are available to help make your users happy. In this outstanding example, some qualities really stand out.
+
+For what it is worth, the website also passed a test with Are My Third Parties Green? for a quick sustainability related check.
 
 
 
