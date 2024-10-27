@@ -58,7 +58,7 @@ It is pretty awesome at some guidelines. But in terms of web performance it has 
 
 # Conclusion
 
-You may feel locked within the realm of some particular stack but there are always a variety of techniques that are available to help make your users happy. In this outstanding example, some qualities really stand out.
+In this outstanding example, some qualities really stand out. There may be room for critical writing at a later date, for now, I recognize the good standout qualities and techniques!
 
 For what it is worth, the website also passed a test with Are My Third Parties Green? for a quick sustainability related check.
 
