@@ -1,6 +1,6 @@
 ---
-title: "McMaster-Carr Sustainability Example: Getting into nuts and bolts"
-date: 2024-10-25T8:00:00-08:00
+title: "McMaster-Carr Sustainability Example: the nuts and bolts of web design"
+date: 2024-10-26T8:00:00-08:00
 draft: false
 tags: 
    - web
