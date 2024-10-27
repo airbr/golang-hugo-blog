@@ -19,6 +19,7 @@ tags:
 show_reading_time: false
 read_more_copy: Read more about McMasters design virtues...
 blurb: Taking a Web Sustainability Guidelines look at some of the praised features of McMaster.com
+featured_image: /mcmaster-desktop.gif   
 ---
 
 
@@ -48,7 +49,11 @@ The whole website has a consistent theme and style. There is a very spartan and 
 
 # The web performance of McMaster-Carr
 
-McMaster is pretty awesome at some guidelines but in terms of web performance it has got [some INP-related web performance issues](https://www.webpagetest.org/result/241027_BiDcRK_5T/) that seem to get in the way of it meeting the title of passing Core Web Vitals. Despite this, it is full of features to make the experience better for at least many users:
+McMaster is pretty awesome at some guidelines but in terms of web performance it has got [some INP-related web performance issues](https://www.webpagetest.org/result/241027_BiDcRK_5T/) that seem to get in the way of it meeting the title of passing Core Web Vitals. Despite this, it is full of features to make the experience better for at least many users.
+
+The [desktop experience, under these WebPageTest settings, was pretty good?](https://www.webpagetest.org/result/241027_AiDcRD_1YA/)
+
+![Desktop Loading Screen](/mcmaster-desktop.gif).
 
 1. Preloads fonts
 2. Prefetch's 
