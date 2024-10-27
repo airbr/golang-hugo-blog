@@ -24,7 +24,7 @@ blurb: Taking a Web Sustainability Guidelines look at some of the praised featur
 
 Sustainability makes people happy and have joy in interacting with your products. User-Experience Design is one key feature of sustainability and the web is no exception. 
 
-The Web Sustainability Guidelines (WSG) are not just about reducing the environmental impact of a website but also happy people. In the following example, we look at a few outstanding use of techniques that support some select web sustainability guidelines for a fast website experience that seems to wow people.
+The Web Sustainability Guidelines (WSG) are not just about reducing the environmental impact of a website but also happy people. In the following example we look at a few outstanding use of techniques for a fast website experience that seems to wow people, and also contributes to sustainability. This is not a comprehensive attempt at an audit, just aiming to highlight a few qualities that stand out!
 
 # The example:  McMaster-Carr
 
