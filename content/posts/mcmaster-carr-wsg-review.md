@@ -48,19 +48,19 @@ The whole website has a consistent theme and style. There is a very spartan and 
 
 # The web performance of McMaster-Carr
 
-It is pretty awesome at some guidelines. But in terms of web performance it has got [some INP-related web performance issues](https://www.webpagetest.org/result/241027_BiDcRK_5T/) that seem to get in the way of it meeting the title of passing Core Web Vitals. Despite this, it is full of features to make the experience better for at least many users:
+McMaster is pretty awesome at some guidelines but in terms of web performance it has got [some INP-related web performance issues](https://www.webpagetest.org/result/241027_BiDcRK_5T/) that seem to get in the way of it meeting the title of passing Core Web Vitals. Despite this, it is full of features to make the experience better for at least many users:
 
 1. Preloads fonts
-2. Prefetch's content 
+2. Prefetch's 
 3. Caches content
 4. Uses [Service Worker](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API) Technology
 5. Inlined CSS
 
 # Conclusion
 
-In this outstanding example, some qualities really stand out. There may be room for critical writing at a later date, for now, I recognize the good standout qualities and techniques!
+In this outstanding example of McMaster some qualities really stand out as good sustainable design. There may be room for critical writing at a later date, for now, I recognize the good standout qualities and techniques!
 
-For what it is worth, the website also passed a test with Are My Third Parties Green? for a quick sustainability related check.
+Also, for what it is worth, the website also passed a test with Are My Third Parties Green? for a quick sustainability related check.
 
 
 
