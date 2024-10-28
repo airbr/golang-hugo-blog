@@ -63,7 +63,7 @@ The [desktop experience, under these WebPageTest settings, was pretty good?](htt
 
 # Conclusion
 
-In this outstanding example of McMaster some qualities really stand out as good sustainable design on some guielines. There may be room for critical writing at a later date about other guidelines, for now, I recognize some good standout qualities and techniques!
+In this outstanding example of McMaster some qualities really stand out as good sustainable design on some guidelines. There may be room for critical writing at a later date about other guidelines, for now, I recognize some good standout qualities and techniques!
 
 Also, for what it is worth, the website also passed a test with Are My Third Parties Green? for a quick sustainability related check.
 
