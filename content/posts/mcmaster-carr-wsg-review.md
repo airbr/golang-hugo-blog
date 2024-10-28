@@ -22,6 +22,7 @@ blurb: Taking a Web Sustainability Guidelines look at some of the praised featur
 featured_image: /mcmaster-desktop.gif   
 ---
 
+### Initial Draft version; Still researching website
 
 Sustainability makes people happy and have joy in interacting with your products. User-Experience Design is one key feature of sustainability and the web is no exception. 
 
