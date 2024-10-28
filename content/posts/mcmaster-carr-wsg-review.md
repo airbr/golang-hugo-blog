@@ -39,7 +39,9 @@ Open the website and there you are, you are looking at the product(s) available 
 
 ## 2. [Avoids Overabundance of Assets](https://w3c.github.io/sustyweb/#avoid-unnecessary-or-an-overabundance-of-assets)
 
-Very minimal, consistent use of assets. 
+Very minimal, consistent use of assets. There doesn't feel like anymore than what needs to be there.
+
+The web browser may download or preload or prefetch more resources than technically necessary. However, visually and functionally, the website exhibits a very minimalist quality that has real benefits.
 
 ## 3. [Uses a Design System to prioritize interface consistency](https://w3c.github.io/sustyweb/#use-a-design-system-to-prioritize-interface-consistency)
 
