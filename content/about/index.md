@@ -5,17 +5,18 @@ date: 2024-10-14 12:00:00
 
 👋 Hey there! My name is Beau Morgan Murrah. Morgan is my preferred name. I am an [American New Zealander](https://en.wikipedia.org/wiki/American_New_Zealanders) living in the USA.
 
-I like reading, learning and working on interesting projects.
+I like reading, learning and working on interesting projects. My email is below!
 
-<!-- Made this a comment since Im not actively looking for a role -->
-<!-- # Technology Career
+# Resume
+
+# Technology Career
 
 * [Toolhouse](https://toolhouse.com/), a CG Life Company, 2023-2024+
   * Digital Content Manager
 * [WompMobile](https://web.archive.org/web/20210302013723/http://www.wompmobile.com/) 2021-2022
   * Production Developer
 * [EasyRx](https://easyrxcloud.com/), 2017-2021
-  * Software Developer -->
+  * Software Developer
 
 # Undergraduate Degrees
 * [LLB -- Bachelor of Laws -- Otago University, Dunedin, New Zealand](https://www.otago.ac.nz/courses/qualifications/llb) -- [2013](https://www.odt.co.nz/news/dunedin/university-otago-graduands-december-14-2013)
@@ -27,7 +28,6 @@ I like reading, learning and working on interesting projects.
 * General Assembly Web Development Immersive -- 2016
 * [Enrolled Barrister and Solicitor of the High Court of New Zealand -- 2015](https://www.lawsociety.org.nz/starting-as-a-lawyer/admitted-but-no-practising-certificate/)
 * Professional Legal Studies Certificate of Completion -- 2014
-
 
 # Open Source Contributions
 
