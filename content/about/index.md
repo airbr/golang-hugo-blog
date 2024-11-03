@@ -7,7 +7,7 @@ date: 2024-10-14 12:00:00
 
 I like reading, learning and working on interesting projects. My email is below!
 
-# Resume
+# Resume (partial)
 
 # Technology Career
 
