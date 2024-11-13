@@ -44,7 +44,7 @@ I have [written about DocType's before](/posts/doctype). Now from the Almanac I 
 
 # Example: [Performance - Time to First Byte](https://almanac.httparchive.org/en/2024/performance#time-to-first-byte-ttfb)
 
-Sometimes not much changes year to year, but this effort and methods and techniques evolve.
+Sometimes not much changes year to year. This itself is very useful data.
 
 # Example: [Markup - Custom Elements](https://almanac.httparchive.org/en/2024/markup#custom-elements)
 
