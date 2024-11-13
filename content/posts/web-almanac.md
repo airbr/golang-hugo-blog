@@ -14,14 +14,15 @@ tags:
    - big data
    - web sustainability guidelines
    - sustainability
+   - doctype
 show_reading_time: true
 read_more_copy: Read commentary about the 2024 Web Almanac...
 blurb: Taking a look at an awesome source of research and information!
 ---
 
-# Appreciating the good work, people doing the effort
+# Appreciating the [good work](https://almanac.httparchive.org/en/2024/), people doing the effort
 
-The community led [organization of contributors](https://almanac.httparchive.org/en/2024/contributors) behind the web almanac is something to behold and admire. Just look at their organization, the effort put in, its truly impressive. Lets just list some of the virtues of this project made of:
+The community led [organization of contributors](https://almanac.httparchive.org/en/2024/contributors) behind the web almanac is something to behold and admire. Just look at their organization, the effort put in, it is truly impressive. Lets just list some of the virtues of this project made of:
 
 ## Values led, data driven
 
@@ -31,4 +32,12 @@ Look at the chapter on sustainability, particularly [What's New](https://almanac
 
 Check out their [well written accessibility notice](https://almanac.httparchive.org/en/accessibility-statement).
 
-# More to come...
+## All about the web
+
+That ubiqituous platform, that endures
+
+# Example: [DocType](https://almanac.httparchive.org/en/2024/markup#doctypes) -- which I have [written about before](/posts/doctype)
+
+> 93% of all mobile pages use the standard HTML doctype. That is, `<!DOCTYPE html>`.
+
+> This is 3 percentage points higher than the 2022 data. The surprising part is the next most popular: XHTML 1.1 Transitional—but slowly disappearing (2.7%, down from 3.9% in 2022).
