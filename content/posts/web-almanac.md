@@ -45,3 +45,7 @@ I have [written about DocType's before](/posts/doctype). Now from the Almanac I 
 # Example: [Performance - Time to First Byte](https://almanac.httparchive.org/en/2024/performance#time-to-first-byte-ttfb)
 
 Sometimes not much changes year to year, but this effort and methods and techniques evolve.
+
+# Example: [Markup - Custom Elements](https://almanac.httparchive.org/en/2024/markup#custom-elements)
+
+Sometimes a chapter will inform you -- or confirm -- a trend. With confidence we can say that custom elements, one feature of web components, is on the rise in usage.
