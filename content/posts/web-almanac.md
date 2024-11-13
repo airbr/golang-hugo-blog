@@ -17,12 +17,12 @@ tags:
    - doctype
 show_reading_time: true
 read_more_copy: Read commentary about the 2024 Web Almanac...
-blurb: Taking a look at an awesome source of research and information!
+blurb: Taking a look at an awesome source of research and information about the web!
 ---
 
 # Appreciating the [good work](https://almanac.httparchive.org/en/2024/), people doing the effort
 
-The community led [organization of contributors](https://almanac.httparchive.org/en/2024/contributors) behind the web almanac is something to behold and admire. Just look at their organization, the effort put in, it is truly impressive. Lets just list some of the virtues of this project made of:
+The community led [organization of contributors](https://almanac.httparchive.org/en/2024/contributors) behind the web almanac is something to behold and admire. Just look at their organization -- the enormous effort put in -- it is truly impressive. Lets just list some of the virtues of this project made of:
 
 ## Values led, data driven
 
@@ -36,8 +36,12 @@ Check out their [well written accessibility notice](https://almanac.httparchive.
 
 # Example: [DocType - Markup Chapter](https://almanac.httparchive.org/en/2024/markup#doctypes)
 
-I have [written about before](/posts/doctype). Now from the Almanac I can see some hard data behind the issue.
+I have [written about DocType's before](/posts/doctype). Now from the Almanac I can see some hard data behind the concept:
 
 > 93% of all mobile pages use the standard HTML doctype. That is, `<!DOCTYPE html>`.
 
 > This is 3 percentage points higher than the 2022 data. The surprising part is the next most popular: XHTML 1.1 Transitional—but slowly disappearing (2.7%, down from 3.9% in 2022).
+
+# Example: [Performance - Time to First Byte](https://almanac.httparchive.org/en/2024/performance#time-to-first-byte-ttfb)
+
+Sometimes not much changes year to year, but this effort and methods and techniques evolve.
