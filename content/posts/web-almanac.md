@@ -34,9 +34,9 @@ Check out their [well written accessibility notice](https://almanac.httparchive.
 
 ## All about the web
 
-That ubiqituous platform, that endures
+# Example: [DocType - Markup Chapter](https://almanac.httparchive.org/en/2024/markup#doctypes)
 
-# Example: [DocType](https://almanac.httparchive.org/en/2024/markup#doctypes) -- which I have [written about before](/posts/doctype)
+I have [written about before](/posts/doctype). Now from the Almanac I can see some hard data behind the issue.
 
 > 93% of all mobile pages use the standard HTML doctype. That is, `<!DOCTYPE html>`.
 
