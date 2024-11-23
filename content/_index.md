@@ -9,5 +9,5 @@ theme_version: '2.8.2'
 # featured_image: '/flagofbellingham.svg'
 background: 'whitesmoke'
 text_color: 'black'
-# featured_image: '/bellingham.jpg'
+featured_image: '/bellingham.jpg'
 ---

@@ -17,24 +17,10 @@
   btn-label-select-all-and-continue="Select all and continue"
   content-settings-description="You can decide which cookies are used by selecting the respective options below. Please note that your selection may impair in the functionality of the service."
 >
-  <!-- We use cookies and similar technologies to provide certain features, enhance
-  the user experience and deliver content that is relevant to your interests.
-  Depending on their purpose, analysis and marketing cookies may be used in
-  addition to technically necessary cookies. By clicking on "Agree and
-  continue", you declare your consent to the use of the aforementioned cookies. -->
 <h3>
   This website uses cookies to take samples of web performance information using the software(s) <a style="color: white;" href="https://techdocs.akamai.com/mpulse/docs/welcome-to-mpulse">mPulse</a> and <a style="color: white;" href="https://support.speedcurve.com/docs/welcome">SpeedCurve</a>.
-  This limited data is used purely for educational research to improve this websites performance and will not be sold to any 3rd party. By continuing to use this website you accept cookies collecting performance data such as load time and browser type used to access the site.
+  This limited data is used purely to improve this websites performance for future visitors and will not be sold. By continuing to use this website you accept cookies collecting performance data such as load time and browser type used to access the site.
 </h3>
-  <!-- <a
-    href="javascript:document.dispatchEvent(new Event('cookie_consent_details_show'))"
-  >
-    Here
-  </a> -->
-  <!-- you can make detailed settings or revoke your consent (in part if necessary)
-  with effect for the future. For further information, please refer to our
-  <a href="/privacy-policy">Privacy Policy</a> -->
-  
 </cookie-consent-banner>
 
 <!-- Open Banner again -->
@@ -44,9 +30,7 @@
 
 <script>
   /* Update available Cookie Categories */
-  const cookieConsentBannerElement = document.querySelector(
-    "cookie-consent-banner",
-  );
+  const cookieConsentBannerElement = document.querySelector('cookie-consent-banner');
   cookieConsentBannerElement.availableCategories = [
     // {
     //   description:

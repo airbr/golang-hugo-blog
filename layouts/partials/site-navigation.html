@@ -13,7 +13,7 @@
         <ul class="{{ cond (eq $.Site.Language.LanguageDirection "rtl") "pr0 ml3" "di pl0 mr3" }}">
           {{ range .Site.Menus.main }}
           <li class="f4 f4-ns fw4 dib {{ cond (eq $.Site.Language.LanguageDirection "rtl") "pl3" "pr3" }}">
-            <a class="hover-blue" href="{{ .URL }}" title="{{ i18n "pageTitle" . }}">
+            <a class="nav-link hover-white" href="{{ .URL }}" title="{{ i18n "pageTitle" . }}">
               {{ .Name }}
             </a>
           </li>
