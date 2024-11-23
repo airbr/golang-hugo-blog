@@ -1,3 +1,33 @@
+
+{{ $featured_image := partial "func/GetFeaturedImage.html" . }}
+{{ if $featured_image }}
+<nav class="pv3 ph3 ph4-ns">
+  <div class="flex-l justify-between items-end center">
+    <a href="{{ .Site.Home.RelPermalink }}" style="color: white;" class="f3 fw2 hover-blue black dib">
+      {{ with .Site.Params.site_logo }}
+        <img src="{{ relURL . }}" class="w100 mw5-ns" alt="{{ $.Site.Title }}" />
+      {{ else }}
+        {{ .Site.Title }}
+      {{ end }}
+    </a>
+    <div class="flex-l items-center" style="color: white;">
+      {{ partial "i18nlist.html" . }}
+      {{ if .Site.Menus.main }}
+        <ul class="{{ cond (eq $.Site.Language.LanguageDirection "rtl") "pr0 ml3" "di pl0 mr3" }}">
+          {{ range .Site.Menus.main }}
+          <li class="f4 f4-ns fw4 dib {{ cond (eq $.Site.Language.LanguageDirection "rtl") "pl3" "pr3" }}">
+            <a class="nav-link hover-white" style="color: white;" href="{{ .URL }}" title="{{ i18n "pageTitle" . }}">
+              {{ .Name }}
+            </a>
+          </li>
+          {{ end }}
+        </ul>
+      {{ end }}
+      {{ partialCached "social-follow.html" . }}
+    </div>
+  </div>
+</nav>
+{{ else }}
 <nav class="pv3 ph3 ph4-ns">
   <div class="flex-l justify-between items-center center">
     <a href="{{ .Site.Home.RelPermalink }}" class="f3 fw2 hover-blue black dib">
@@ -24,3 +54,4 @@
     </div>
   </div>
 </nav>
+{{ end }}

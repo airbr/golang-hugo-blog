@@ -9,7 +9,7 @@ text_color: 'black'
 
 I love web performance. It is a mixture of the kinds of challenges I love.
 
-This website is statically generated with [Hugo](https://gohugo.io/) for performance. Static site generators mean that useful HTML is prioritized first in what is delivered to a browser usually. For this reason therefore performance usually improves on some key metrics. It works pretty fast! It is also pretty basic because I like it that way sometimes.  
+This website is statically generated with [Hugo](https://gohugo.io/) for performance. Static site generators mean that useful HTML is prioritized first in what is delivered to a browser usually and performance usually improves on some key metrics. It works pretty fast! It is also pretty basic because I like it that way sometimes.  
 
 Have you tried running tests before on websites? Consider checking out a local Lighthouse test run for a start:
 
@@ -27,4 +27,4 @@ There are lots of resources out there, but first you should run some tests and g
 
 ### Next: Performance Monitoring, but first, run some tests!
 
-All the resources and community are out there and it is just more a matter of sparking that initial interest to get you going is my philosophy.
+As you should have seen in my cookie notice, I am running mPulse and Speedcurve on this website. Will write something as I go!
