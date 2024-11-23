@@ -10,7 +10,7 @@
         {{ .Site.Title }}
       {{ end }}
     </a>
-    <div class="flex-l items-center" style="color: white;">
+    <div  id="desktop-nav" class="flex-l items-center" style="color: white;">
       {{ partial "i18nlist.html" . }}
       {{ if .Site.Menus.main }}
         <ul class="{{ cond (eq $.Site.Language.LanguageDirection "rtl") "pr0 ml3" "di pl0 mr3" }}">
@@ -25,6 +25,24 @@
       {{ end }}
       {{ partialCached "social-follow.html" . }}
     </div>
+    <div id="mobile-nav" class="flex-l items-center" style="color: white;">
+      <details>
+        <summary>Menu</summary>
+        {{ partial "i18nlist.html" . }}
+        {{ if .Site.Menus.main }}
+          <ul class="{{ cond (eq $.Site.Language.LanguageDirection "rtl") "pr0 ml3" "mr3" }}">
+            {{ range .Site.Menus.main }}
+            <li class="f4 f4-ns fw4 {{ cond (eq $.Site.Language.LanguageDirection "rtl") "pl3" "pr3" }}">
+              <a class="nav-link hover-white" style="color: white; text-decoration: underline;" href="{{ .URL }}" title="{{ i18n "pageTitle" . }}">
+                {{ .Name }}
+              </a>
+            </li>
+            {{ end }}
+          </ul>
+        {{ end }}
+        {{ partialCached "social-follow.html" . }}
+      </div>
+      </details>
   </div>
 </nav>
 {{ else }}

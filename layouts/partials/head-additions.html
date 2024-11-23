@@ -40,6 +40,43 @@
   .nav-link:visited {
     color: blue;
   }
+
+@media screen and (max-width: 480px) {
+  #mobile-nav {
+    display: block;
+  }
+  #desktop-nav {
+    display: none;
+  }
+}
+
+@media screen and (min-width: 480px) {
+  #desktop-nav {
+    display: block;
+  }
+  #mobile-nav {
+    display: none;
+  }
+}
+
+details {
+  border: 1px solid #aaa;
+  border-radius: 5px;
+  padding: 0.5em 0.5em 0;
+  background: black;
+}
+
+summary {
+  font-weight: bold;
+  margin: -0.5em -0.5em 0;
+  padding: 0.5em;
+  background: black;
+}
+
+details[open] {
+  padding: 0.5em;
+}
+
 </style>
 <meta property="og:image" content="https://morganwebdev.org/headshot.png" />
 <script>
