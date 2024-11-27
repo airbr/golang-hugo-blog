@@ -1,9 +1,9 @@
 ---
 title: About Morgan Murrah
-date: 2024-10-14 12:00:00
+date: 2024-11-26 12:00:00
 ---
 
-👋 Hey there! My name is Beau Morgan Murrah. Morgan is my preferred name. I am an [American New Zealander](https://en.wikipedia.org/wiki/American_New_Zealanders) living in the USA.
+👋 Hey there! My name is Beau Morgan Murrah. Morgan is my preferred name. I am an [American New Zealander](https://en.wikipedia.org/wiki/American_New_Zealanders) living in the USA. I am happily married and happily and steadily employed. 
 
 I like reading, learning and working on interesting projects. My email is below!
 
@@ -16,7 +16,7 @@ I like reading, learning and working on interesting projects. My email is below!
  {{< rawhtml >}}
     <details>
       <summary>Details about this role</summary>
-Delivered high quality responsive websites in a multi skilled role requiring breadth of web knowledge and attention to detail. Tools used include JavaScript, CSS, HTML, .YML, Puppeteer, Adobe Experience Manager.
+Delivered high quality responsive websites in a multi skilled role requiring breadth of web knowledge and attention to detail. Tools used include JavaScript, CSS, HTML, .YML, Puppeteer, Adobe Experience Manager. Oversaw many important updates and launches for brands in the heavily regulated medical product space.
     </details>
   {{< /rawhtml >}}
 
@@ -47,7 +47,7 @@ Full-time remote developer working on a team of developers and support staff. To
 
 * Lightning-Fast Web Performance Certificate of Achievement -- 2023
 * General Assembly Web Development Immersive -- 2016
-* [Enrolled Barrister and Solicitor of the High Court of New Zealand -- 2015](https://www.lawsociety.org.nz/starting-as-a-lawyer/admitted-but-no-practising-certificate/)
+* Enrolled Barrister and Solicitor of the High Court of New Zealand -- 2015
 * Professional Legal Studies Certificate of Completion -- 2014
 
 # Open Source Contributions
@@ -88,3 +88,5 @@ Full-time remote developer working on a team of developers and support staff. To
 # Contact
 
 #### [morgan@morganwebdev.com](mailto:morgan@morganwebdev.com) is my email- probably the best way to get in contact. 
+
+Note, my email address is to morganwebdev.com, not .org like this website. This is a legacy difference. 
