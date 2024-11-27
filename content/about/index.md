@@ -16,7 +16,7 @@ I like reading, learning and working on interesting projects. My email is below!
  {{< rawhtml >}}
     <details>
       <summary>Details about this role</summary>
-Delivered high quality responsive websites in a multi skilled role requiring breadth of web knowledge and attention to detail. Tools used include JavaScript, CSS, HTML, .YML, Puppeteer, Adobe Experience Manager. Oversaw many important updates and launches for brands in the heavily regulated medical product space.
+Delivered high quality responsive websites in a multi skilled role requiring breadth of web knowledge and attention to detail. Tools used include JavaScript, CSS, HTML, .YML, Puppeteer, Adobe Experience Manager. Prepared and QA'd many important updates and launches for brands in the heavily regulated medical product space.
     </details>
   {{< /rawhtml >}}
 

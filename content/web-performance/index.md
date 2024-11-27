@@ -9,9 +9,11 @@ text_color: 'black'
 
 I love web performance. It is a mixture of the kinds of challenges I love.
 
-This website is statically generated with [Hugo](https://gohugo.io/) for performance. Static site generators mean that useful HTML is prioritized first in what is delivered to a browser usually and performance usually improves on some key metrics. It works pretty fast! It is also pretty basic because I like it that way sometimes.  
+This website is statically generated with [Hugo](https://gohugo.io/) for performance. It works pretty fast! It is also pretty basic because I like it that way sometimes.  
 
-Have you tried running tests before on websites? Consider checking out a local Lighthouse test run for a start:
+If you have never run a web performance test before, I recommend to start with [Yellow Lab Tools - https://yellowlab.tools/](https://yellowlab.tools/). From entering a URL you will quickly get a graded score from running a test that gives a lot of useful information.
+
+Have you tried running tests before on websites locally? Consider checking out a local Lighthouse test run for a start:
 
 * [Lighthouse - Chrome DevTools](https://developer.chrome.com/docs/lighthouse/overview/#devtools)
 
@@ -28,3 +30,5 @@ There are lots of resources out there, but first you should run some tests and g
 ### Next: Performance Monitoring, but first, run some tests!
 
 As you should have seen in my cookie notice, I am running mPulse and Speedcurve on this website. Will write something as I go!
+
+As of this update, this website has been getting about 100 views a day. I plan to produce a report about comparing the two. 
