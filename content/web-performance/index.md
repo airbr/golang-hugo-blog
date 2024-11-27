@@ -19,13 +19,18 @@ Have you tried running tests before on websites locally? Consider checking out a
 
 Ideally you should be using several tools to gain a bigger picture. Local "lab" tests have limitations. 
 
-Then, in no particular order, I reccomend entering a website you are interested in into some of the following:
+Then, in no particular order, I reccomend entering a website URL into a more advanced test:
 
-* [Pagespeed Insights - https://pagespeed.web.dev/](https://pagespeed.web.dev/)
-* [Yellow Lab Tools - https://yellowlab.tools/](https://yellowlab.tools/)
 * [WebPageTest - https://www.webpagetest.org/](https://www.webpagetest.org/)
 
 There are lots of resources out there, but first you should run some tests and get your curiosity flowing!
+
+## Real User Measurement (RUM) Data
+
+The following test will give real user data if your website is included in the Chrome User Experience Report (CrUX):
+
+* [Pagespeed Insights - https://pagespeed.web.dev/](https://pagespeed.web.dev/)
+
 
 ### Next: Performance Monitoring, but first, run some tests!
 
