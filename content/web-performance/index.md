@@ -19,7 +19,7 @@ Have you tried running tests before on websites locally? Consider checking out a
 
 Ideally you should be using several tools to gain a bigger picture. Local "lab" tests have limitations. 
 
-I reccomend entering a website URL into a more advanced test that includes some real user data, but also good summaries of information:
+I reccomend entering a website URL into a more advanced test that includes some field data if available, but also good summaries of information of lab tests:
 
 * [WebPageTest - https://www.webpagetest.org/](https://www.webpagetest.org/)
     * Go with the default options offered for either desktop or mobile, or customize with many options!  
