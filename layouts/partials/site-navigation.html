@@ -3,7 +3,7 @@
 {{ if .IsHome }}
 <nav class="pv3 ph3 ph4-ns">
   <div class="flex-l justify-between items-end center">
-    <a href="{{ .Site.Home.RelPermalink }}" class="f3 fw2 hover-blue black dib">
+    <a href="{{ .Site.Home.RelPermalink }}" class="f3 fw2 hover-blue white dib">
       {{ with .Site.Params.site_logo }}
         <img src="{{ relURL . }}" class="w100 mw5-ns" alt="{{ $.Site.Title }}" />
       {{ else }}
