@@ -1,5 +1,5 @@
 ---
-title: "Website refresh, Buttons, RUM and the Speculation Rules API"
+title: "Website refresh: Buttons, RUM and the Speculation Rules API"
 date: 2024-11-28T8:00:00-08:00
 draft: false
 tags: 
@@ -9,9 +9,11 @@ tags:
    - RUM
    - Cookie Consent
    - Speculation Rules API
+   - HTML
+   - CSS
 show_reading_time: false
-read_more_copy: Read about a little of whats going on under the hood
-blurb: About some updates to this website including a button component, Speculation Rules API and Cookie Banner Web Component
+read_more_copy: Read about a little of whats going on under the hood of Morganwebdev.org...
+blurb: About some updates to this website including a button component, trying out the Speculation Rules API and putting in place a Cookie Banner Web Component
 ---
 
 I have been working on a few changes to this website!
