@@ -1,13 +1,16 @@
 baseURL = "https://morganwebdev.org/"
 languageCode = "en-us"
-title = "Morgan Murrah morganwebdev.org"
+title = "Morgan Murrah - morganwebdev.org"
 theme = 'ananke'
 show_reading_time = true
 features = ["posts", "shortcodes", "related content"]
 
-Paginate = 6 # this is set low for demonstrating with dummy content. Set to a higher number
+Paginate = 9 # this is set low for demonstrating with dummy content. Set to a higher number
 
 enableRobotsTXT = true
+
+[taxonomyPageList]
+other = "Here are pages tagged with the name “{{ .Title }}”"
 
 [params]
   body_classes = "helvetica bg-near-white"
