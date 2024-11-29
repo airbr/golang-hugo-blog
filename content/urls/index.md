@@ -1,6 +1,6 @@
 ---
 title: The web's core power is the hyperlink
-date: 2024-09-28 12:00:00
+date: 2024-11-27 12:00:00
 tags: 
    - web
    - almanac
@@ -22,7 +22,7 @@ tags:
    - Web Standards
 ---
 
-> ### Sometimes the best thing that ever happens on the web is someone trustworthy sharing a hyperlink with a brief description or introduction. It is still one way to enter another world. One click and you can be transported to whole new domain, literally and figuratively.
+> ### Sometimes the best thing that ever happens on the web is when someone trustworthy shares a hyperlink with a brief description or introduction. It is still one way to enter another world. One click and you can be transported to whole new domain, literally and figuratively.
 
 ### These are some hyperlinks, with a *brief* description.
 
@@ -49,3 +49,5 @@ tags:
 [Learn X in Y Minutes](https://learnxinyminutes.com/) - The absolute fastest to refresh upon reference material for many coding languages
 
 [Educational Sensational Inspirational Foundational](https://esif.dev/) - A similar but sorted series of hyperlinks
+
+[How Complex Systems Fail](https://how.complexsystems.fail/) - Wins an award for a good URL; intensely interesting treatise
