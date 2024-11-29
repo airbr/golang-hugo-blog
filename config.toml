@@ -54,3 +54,10 @@ enableRobotsTXT = true
   pre = "<i class='fa fa-heart'></i>"
   url = '/Bellingham/'
   weight = 6
+
+[[menu.main]]
+  identifier = 'urls'
+  name = 'hyperlinks'
+  pre = "<i class='fa fa-heart'></i>"
+  url = '/urls/'
+  weight = 7
