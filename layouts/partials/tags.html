@@ -1,0 +1,10 @@
+<ul class="pa0">
+    {{ range .GetTerms "tags" }}
+     <li class="list di">
+       <a href="{{ .RelPermalink }}" data-button-variant="positive" class="link f5 grow no-underline button ba ph3 pv2 mb2 dib black sans-serif">
+         {{- .LinkTitle -}}
+       </a>
+     </li>
+    {{ end }}
+  </ul>
+  
