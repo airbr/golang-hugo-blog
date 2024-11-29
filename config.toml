@@ -67,7 +67,7 @@ enableRobotsTXT = true
     class = 'highlight-menu-item'
 [[menu.main]]
   identifier = 'web-performance'
-  name = 'about web performance'
+  name = 'web performance'
   pre = "<i class='fa fa-heart'></i>"
   url = '/web-performance/'
   weight = 4
