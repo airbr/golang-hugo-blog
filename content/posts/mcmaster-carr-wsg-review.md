@@ -22,7 +22,9 @@ blurb: Taking a Web Sustainability Guidelines look at some of the praised featur
 featured_image: /mcmaster-desktop.gif   
 ---
 
-Sustainability makes people happy and have joy in interacting with your products. User-Experience Design is one key feature of sustainability and the web is no exception. This blog post takes a look at one website which may have legacy stack features but makes the best of a few sustainable techniques. This is not a comprehensive attempt at an audit, just aiming to highlight a few qualities that stand out!
+Sustainability makes people happy and have joy in interacting with your products: User-Experience Design is one key feature of sustainability and the web is no exception. 
+
+This blog post takes a look at one website which may have legacy stack features but makes the best of a few sustainable techniques. This is not a comprehensive attempt at an audit, just aiming to highlight a few qualities that stand out!
 
 # The example:  McMaster-Carr
 
