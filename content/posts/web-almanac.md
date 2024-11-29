@@ -14,7 +14,7 @@ tags:
    - big data
    - web sustainability guidelines
    - sustainability
-   - doctype
+   - doctype   
 show_reading_time: true
 read_more_copy: Read commentary about the 2024 Web Almanac...
 blurb: Taking a look at an awesome source of research and information about the web!
@@ -34,7 +34,7 @@ Check out their [well written accessibility notice](https://almanac.httparchive.
 
 ## All about the web
 
-# Example: [DocType - Markup Chapter](https://almanac.httparchive.org/en/2024/markup#doctypes)
+### Example: [DocType - Markup Chapter](https://almanac.httparchive.org/en/2024/markup#doctypes)
 
 I have [written about DocType's before](/posts/doctype). Now from the Almanac I can see some hard data behind the concept:
 
@@ -42,10 +42,14 @@ I have [written about DocType's before](/posts/doctype). Now from the Almanac I 
 
 > This is 3 percentage points higher than the 2022 data. The surprising part is the next most popular: XHTML 1.1 Transitional—but slowly disappearing (2.7%, down from 3.9% in 2022).
 
-# Example: [Performance - Time to First Byte](https://almanac.httparchive.org/en/2024/performance#time-to-first-byte-ttfb)
+### Example: [Performance - Time to First Byte](https://almanac.httparchive.org/en/2024/performance#time-to-first-byte-ttfb)
 
 Sometimes not much changes year to year. This itself is very useful data.
 
-# Example: [Markup - Custom Elements](https://almanac.httparchive.org/en/2024/markup#custom-elements)
+### Example: [Markup - Custom Elements](https://almanac.httparchive.org/en/2024/markup#custom-elements)
 
 Sometimes a chapter will inform you -- or confirm -- a trend. With confidence we can say that custom elements, one feature of web components, is on the rise in usage.
+
+### Example: [Accessibility - font sizes statistics](https://almanac.httparchive.org/en/2024/accessibility#zooming-and-scaling)
+
+> How font sizes are defined also affects the readability, as pixels are not as flexible as other units. Pixel (px) use is 65% in desktop and 66% in mobile. The use of em has increased to 9% from 6% in 2022. rem was at 6% in 2022, and has reduced to 4% now. There is not a significant increase in the use of em or rem since 2022, even though it often gives the user a better experience when they increase or decrease their font size in their browser settings.

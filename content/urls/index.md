@@ -1,6 +1,25 @@
 ---
 title: The web's core power is the hyperlink
 date: 2024-09-28 12:00:00
+tags: 
+   - web
+   - almanac
+   - research
+   - HTTP Archive
+   - internet
+   - sustainability
+   - web development
+   - data
+   - web sustainability guidelines
+   - sustainability
+   - doctype
+   - web performance
+   - web testing
+   - testing
+   - HTML
+   - CSS
+   - JavaScript
+   - Web Standards
 ---
 
 > ### Sometimes the best thing that ever happens on the web is someone trustworthy sharing a hyperlink with a brief description or introduction. It is still one way to enter another world. One click and you can be transported to whole new domain, literally and figuratively.

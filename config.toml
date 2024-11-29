@@ -19,6 +19,35 @@ enableRobotsTXT = true
   name = "rss"
   url = "https://morganwebdev.org/index.xml" 
 
+[related]
+  includeNewer = false
+  threshold = 80
+  toLower = false
+  [[related.indices]]
+    applyFilter = false
+    cardinalityThreshold = 0
+    name = 'keywords'
+    pattern = ''
+    toLower = false
+    type = 'basic'
+    weight = 100
+  [[related.indices]]
+    applyFilter = false
+    cardinalityThreshold = 0
+    name = 'date'
+    pattern = ''
+    toLower = false
+    type = 'basic'
+    weight = 10
+  [[related.indices]]
+    applyFilter = false
+    cardinalityThreshold = 0
+    name = 'tags'
+    pattern = ''
+    toLower = false
+    type = 'basic'
+    weight = 80
+
 [menu]
 [[menu.main]]
   identifier = 'writings'
