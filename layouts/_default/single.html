@@ -44,7 +44,7 @@
         */}}
       {{ if (or (eq (.Param "show_reading_time") true) (eq $section.Params.show_reading_time true) )}}
         <!-- <span class="f6 mv4 dib tracked"> - {{ i18n "readingTime" .ReadingTime }} </span> -->
-        <span class="f6 mv4 dib tracked"> -- {{ i18n "wordCount" .WordCount }} </span>
+        <!-- <span class="f6 mv4 dib tracked"> -- {{ i18n "wordCount" .WordCount }} </span> -->
       {{ end }}
     </header>
     <div class="nested-copy-line-height lh-copy {{ $.Param "post_content_classes"  | default "serif"}} f4 {{ $.Param "text_color" | default "mid-gray" }} {{ cond (eq $.Site.Language.LanguageDirection "rtl") "pl4-l" "pr4-l" }} w-two-thirds-l">
