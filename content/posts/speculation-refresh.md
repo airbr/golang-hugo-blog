@@ -73,7 +73,9 @@ I got interested by this question which led me to want to try and implement a Co
 
 ![Cookie Banner Screenshot](/cookie-screenshot.png)
 
-I decided to add a cookie banner but I was not under any requirement to meet any rules. This decision would aim for it to be as simple as possible of a maneuver keeping in mind that I may decide to get rid of it or customize it some. In terms of content it would essentially be the most forgiving "By continuing to use this website you accept" variation and I had no project requirements for any kind of specific cookies to manage.
+**Update: Temporarily disabled the cookie banner to do more work on a fork of the porsche project!**
+
+I decided to try adding a cookie banner but I was not under any requirement to meet any rules. This decision would aim for it to be as simple as possible of a maneuver keeping in mind that I may decide to get rid of it or customize it some. In terms of content it would essentially be the most forgiving "By continuing to use this website you accept" variation and I had no project requirements for any kind of specific cookies to manage.
 
 I decided I wanted a web component for this solution. I wanted something that no matter where I placed it, it was just configured to work. In my head, the cookie banner is very independent from the main body of the website and in code. It seemed to make sense to reach for a solution that offered the kind of [encapsulation](https://developer.mozilla.org/en-US/docs/Web/API/Web_components/Using_shadow_DOM) that a web component could offer with the shadow document object model.
 
