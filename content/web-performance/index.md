@@ -35,6 +35,4 @@ The following test will give real user data if your website is included in the C
 
 ### Next: Performance Monitoring, but first, run some tests!
 
-As you should have seen in my cookie notice, I am running mPulse and Speedcurve on this website. Will write something as I go!
-
 As of this update, this website has been getting about 100 views a day. I plan to produce a report about comparing the two. 
