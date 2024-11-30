@@ -215,12 +215,12 @@
     {{ partial "site-style.html" . }}
     {{ partial "site-scripts.html" . }}
 
-    <script
+    <!-- <script
   type="module"
   src="https://unpkg.com/@porscheofficial/cookie-consent-banner@1.0.0/dist/cookie-consent-banner/cookie-consent-banner.esm.js"
-></script>
+></script> -->
 
-<style>
+<!-- <style>
   :root {
     /* COLORS */
     --cookie-consent-banner-colors-primary: #9eebcf;
@@ -259,7 +259,7 @@
     --cookie-consent-banner-font-family-body: inherit;
     --cookie-consent-banner-font-size-body: 0.875rem;
   }
-</style>
+</style> -->
     
     {{ block "favicon" . }}
       {{ partialCached "site-favicon.html" . }}
