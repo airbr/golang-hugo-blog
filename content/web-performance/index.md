@@ -6,16 +6,16 @@ text_color: 'black'
 ---
 
 👋 Hey there
+
+I love web performance. It is a mixture of the kinds of challenges I love. Here are some Core Web Vitals for your visit to this page:
+
  {{< rawhtml >}}
-<br>
 <br>
 <web-vitals show-unsupported></web-vitals>
 <script src="https://unpkg.com/web-vitals-element@latest/dist/web-vitals-element.styled.min.js"></script>
 <br>
-<h2><a href="https://github.com/stefanjudis/web-vitals-element">Some Core Web Vitals on this page with a web component...<a></h2>
+<h3><a href="https://github.com/stefanjudis/web-vitals-element">Some Core Web Vitals on this page with a web component...<a></h3>
  {{< /rawhtml >}}
-
-I love web performance. It is a mixture of the kinds of challenges I love.
 
 This website is statically generated with [Hugo](https://gohugo.io/) for performance. It works pretty fast! It is also pretty basic because I like it that way sometimes.  
 
