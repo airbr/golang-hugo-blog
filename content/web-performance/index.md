@@ -6,6 +6,14 @@ text_color: 'black'
 ---
 
 👋 Hey there
+ {{< rawhtml >}}
+<br>
+<br>
+<web-vitals show-unsupported></web-vitals>
+<script src="https://unpkg.com/web-vitals-element@latest/dist/web-vitals-element.styled.min.js"></script>
+<br>
+<h2><a href="https://github.com/stefanjudis/web-vitals-element">Some Core Web Vitals on this page with a web component...<a></h2>
+ {{< /rawhtml >}}
 
 I love web performance. It is a mixture of the kinds of challenges I love.
 
