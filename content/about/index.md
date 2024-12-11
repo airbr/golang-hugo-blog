@@ -5,11 +5,11 @@ date: 2024-11-26 12:00:00
 
 ![Photo of Morgan Murrah](/headshot.png)
 
-👋 Hey there! My name is Beau Morgan Murrah. Morgan is my preferred name. I am an [American New Zealander](https://en.wikipedia.org/wiki/American_New_Zealanders) living in the USA. I am happily married and happily and steadily employed. 
+👋 Hey there! My name is Beau Morgan Murrah. Morgan is my preferred name. I am an [American New Zealander](https://en.wikipedia.org/wiki/American_New_Zealanders) living in the USA. I am happily married and steadily employed. 
 
 I like reading, learning and working on interesting projects. My email is below!
 
-# Resume (partial)
+<!-- # Resume (partial)
 
 # Technology Career
 
@@ -20,10 +20,10 @@ I like reading, learning and working on interesting projects. My email is below!
       <summary>Details about this role</summary>
 Delivered high quality responsive websites in a multi skilled role requiring breadth of web knowledge and attention to detail. Tools used include JavaScript, CSS, HTML, .YML, Puppeteer, Adobe Experience Manager. Prepared and QA'd many important updates and launches for brands in the heavily regulated medical product space.
     </details>
-  {{< /rawhtml >}}
+  {{< /rawhtml >}} -->
 
 
-* [WompMobile](https://web.archive.org/web/20210302013723/http://www.wompmobile.com/) 2021-2022
+<!-- * [WompMobile](https://web.archive.org/web/20210302013723/http://www.wompmobile.com/) 2021-2022
   * Production Developer
  {{< rawhtml >}}
     <details>
@@ -39,7 +39,7 @@ Full-time Remote Developer working on high performance mobile optimized web expe
       <summary>Details about this role</summary>
 Full-time remote developer working on a team of developers and support staff. Tools used on the job include daily use of Jira, Slack and Audio/Video conferencing. Technologies applied on the job include PHP, Symfony 1.x Framework, HTML5, CSS3, JavaScript, JQuery, Subversion & Git Source Control. Gained strong practical object oriented programming experience.
     </details>
-  {{< /rawhtml >}}
+  {{< /rawhtml >}} -->
 
 # Undergraduate Degrees
 * [LLB -- Bachelor of Laws -- Otago University, Dunedin, New Zealand](https://www.otago.ac.nz/courses/qualifications/llb) -- [2013](https://www.odt.co.nz/news/dunedin/university-otago-graduands-december-14-2013)
@@ -54,12 +54,11 @@ Full-time remote developer working on a team of developers and support staff. To
 
 # Open Source Contributions
 
-[Contributor to 5 Draft Releases of the Web Sustainability Guidelines 1.0 by the W3C Sustainable Web Design Community Group](https://github.com/w3c/sustyweb/issues?q=is%3Aissue+author%3Aairbr+is%3Aclosed+):
-* [v1.0-D2](https://github.com/w3c/sustyweb/releases/tag/v1.0-D2)
-* [v1.0-D3](https://github.com/w3c/sustyweb/releases/tag/v1.0-D3)
-* [v1.0-D4](https://github.com/w3c/sustyweb/releases/tag/v1.0-D4)
-* [v1.0-D5](https://github.com/w3c/sustyweb/releases/tag/v1.0-D5)
-* [v1.0-D6](https://github.com/w3c/sustyweb/releases/tag/v1.0-D6)
+* [WSG v1.0-D2](https://github.com/w3c/sustyweb/releases/tag/v1.0-D2)
+* [WSG v1.0-D3](https://github.com/w3c/sustyweb/releases/tag/v1.0-D3)
+* [WSG v1.0-D4](https://github.com/w3c/sustyweb/releases/tag/v1.0-D4)
+* [WSG v1.0-D5](https://github.com/w3c/sustyweb/releases/tag/v1.0-D5)
+* [WSG v1.0-D6](https://github.com/w3c/sustyweb/releases/tag/v1.0-D6)
 
 ---
 * [Web Technology: Web Components, a look at the Apple Pay Button example](/posts/web-components-presentation-2024/)
@@ -67,25 +66,24 @@ Full-time remote developer working on a team of developers and support staff. To
 * [MDN Web Docs glossary contribution](https://github.com/mdn/content/pull/24346#issuecomment-1493051463)
 * [WebPageTest documentation fix](https://github.com/WPO-Foundation/webpagetest-docs/pull/81)
 * [OpenLaw New Zealand -- JavaScript coding volunteer 2020](https://www.openlaw.nz/)
-* Civic Tech Atlanta -- MARTA Hackathon 2016 participant
 * [Award winning hackathon team: GovHack 2015](https://www.odt.co.nz/news/dunedin/dunedin-website-team-wins-nationwide-competition)
 
-# Conferences 
+<!-- # Conferences 
 
 * Linuxfest Northwest -- Attended -- Bellingham, WA 2019
 * WeRise Tech -- Volunteer -- Atlanta, GA 2017
 * PHP\[tek\] -- Volunteer -- Atlanta, GA 2017
 * Connect.Tech -- Volunteer -- Atlanta, GA 2016
-* Kiwicon Information Security Conference -- Attended -- Wellington, New Zealand 2013
+* Kiwicon Information Security Conference -- Attended -- Wellington, New Zealand 2013 -->
 
-# Cofounder
+<!-- # Cofounder
 
 * [Law For Change -- co-founding member/participant of registered charity -- Dunedin, New Zealand 2012-2013](https://www.lawforchange.co.nz/)
-  * Attended a founding Hui at the Marae at Auckland Airport. I helped fund raise money for projects. I also contributed time to Parliamentary Select Committee submissions. Happy to report the charity is vibrant and active in 2024  
+  * Attended a founding Hui at the Marae at Auckland Airport. I helped fund raise money for projects. I also contributed time to Parliamentary Select Committee submissions. Happy to report the charity is vibrant and active in 2024   -->
 
-# Workplace Awards
+<!-- # Workplace Awards
 
-* Workplace culture award for inventiveness - [Toolhouse](https://toolhouse.com) company gala 2023
+* Workplace culture award for inventiveness - [Toolhouse](https://toolhouse.com) company gala 2023 -->
 
 # Contact
 

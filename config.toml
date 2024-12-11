@@ -62,7 +62,7 @@ other = "Here are pages tagged with the name “{{ .Title }}”"
     class = 'highlight-menu-item'
 [[menu.main]]
   identifier = 'about'
-  name = 'about me'
+  name = 'about'
   pre = "<i class='fa fa-heart'></i>"
   url = '/about/'
   weight = 3
@@ -75,21 +75,8 @@ other = "Here are pages tagged with the name “{{ .Title }}”"
   url = '/web-performance/'
   weight = 4
 [[menu.main]]
-  identifier = 'uses'
-  name = 'tools I use'
-  pre = "<i class='fa fa-heart'></i>"
-  url = '/uses/'
-  weight = 5
-[[menu.main]]
-  identifier = 'BellinghamWA'
-  name = 'BellinghamWA'
-  pre = "<i class='fa fa-heart'></i>"
-  url = '/Bellingham/'
-  weight = 6
-
-[[menu.main]]
   identifier = 'urls'
-  name = 'hyperlinks'
+  name = 'and hyperlinks'
   pre = "<i class='fa fa-heart'></i>"
   url = '/urls/'
-  weight = 7
+  weight = 5

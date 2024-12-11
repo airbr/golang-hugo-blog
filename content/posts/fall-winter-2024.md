@@ -1,7 +1,7 @@
 ---
 title: "Fall and Winter 2024"
 date: 2024-09-27T12:00:00-08:00
-draft: false
+draft: true
 show_reading_time: true
 tags: 
     - Goals

@@ -1,4 +1,4 @@
----
+<!-- ---
 title: Tools I use
 date: 2024-10-18 12:00:00
 description: "Good tools in my view; a lot of good HTML, mainly"
@@ -131,4 +131,4 @@ Coding and writing Markdown:
     <li>Trying to learn the core concepts first.</li>
     <ul>
 </details>
-{{< /rawhtml >}}
+{{< /rawhtml >}} -->
