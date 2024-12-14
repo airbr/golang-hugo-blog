@@ -1,7 +1,7 @@
 ---
 title: "Commentary on Debugging"
 date: 2023-02-11T8:00:00-08:00
-draft: false
+draft: true
 tags: 
    - Debugging
    - Zines

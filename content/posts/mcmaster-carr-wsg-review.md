@@ -1,7 +1,7 @@
 ---
 title: "McMaster-Carr Sustainability Example: the nuts and bolts of web design"
 date: 2024-11-02T8:00:00-08:00
-draft: false
+draft: true
 tags: 
    - web
    - performance
