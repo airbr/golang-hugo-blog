@@ -45,12 +45,12 @@ Full-time remote developer working on a team of developers and support staff. To
 * [LLB -- Bachelor of Laws -- Otago University, Dunedin, New Zealand](https://www.otago.ac.nz/courses/qualifications/llb) -- [2013 Ceremony in Otago Daily Times](https://www.odt.co.nz/news/dunedin/university-otago-graduands-december-14-2013)
 * [BA -- Bachelor of Arts -- Major: Classics, Minor: English  -- Otago University, Dunedin, New Zealand](https://www.otago.ac.nz/courses/subjects/clas) -- [2013 Ceremony in Otago Daily Times](https://www.odt.co.nz/news/dunedin/university-otago-graduation-17-august-2013-%E2%80%93-3pm-ceremony)
 
-# Certificates & Certifications
+<!-- # Certificates & Certifications
 
 * Lightning-Fast Web Performance Certificate of Achievement -- 2023
 * General Assembly Web Development Immersive -- 2016
 * Enrolled Barrister and Solicitor of the High Court of New Zealand -- 2015
-* Professional Legal Studies Certificate of Completion -- 2014
+* Professional Legal Studies Certificate of Completion -- 2014 -->
 
 # Open Source Contributions
 
@@ -64,7 +64,7 @@ Full-time remote developer working on a team of developers and support staff. To
 * [Web Technology: Web Components, a look at the Apple Pay Button example](/posts/web-components-presentation-2024/)
   * Presentation given to Bellingham Codes in 2024
 * [MDN Web Docs glossary contribution](https://github.com/mdn/content/pull/24346#issuecomment-1493051463)
-* [WebPageTest documentation fix](https://github.com/WPO-Foundation/webpagetest-docs/pull/81)
+<!-- * [WebPageTest documentation fix](https://github.com/WPO-Foundation/webpagetest-docs/pull/81) -->
 <!-- * [OpenLaw New Zealand -- JavaScript coding volunteer 2020](https://www.openlaw.nz/) -->
 * [Award winning hackathon team: GovHack 2015](https://www.odt.co.nz/news/dunedin/dunedin-website-team-wins-nationwide-competition)
 
