@@ -13,7 +13,7 @@ tags:
    - CSS
 show_reading_time: false
 read_more_copy: Read about a little of whats going on under the hood of Morganwebdev.org...
-blurb: About some updates to this website including a button component, trying out the Speculation Rules API and putting in place a Cookie Banner Web Component
+blurb: About some updates to this website including a button component, trying out the Speculation Rules API and trying out a Cookie Banner Web Component
 ---
 
 I have been working on a few changes to this website!
@@ -61,13 +61,7 @@ Implementing these two involved some thought but for a start felt easy enough. B
 
 You can inspect the code on this page such as in the network tab to see the scripts running/having ran on the page load.
 
-Both mPulse and SpeedCurve offer a wealth of options and I am just starting to take a look at more of the options in the UI.
-
-*Is this a form of tracking? That global graph looks like its picking up some sort of country location...*
-
-Well that really depends on how you look at it and your jurisdiction. Both SpeedCurve and Akamai offer consent solutions to ensure that these scripts are not considered to breach any potential regulations or rules or expectations, such as by getting consent from a cookie banner.
-
-I got interested by this question which led me to want to try and implement a Cookie Banner Web Component proactively just to experiment with it.
+Both mPulse and SpeedCurve offer a wealth of options and I am just starting to take a look at more of the options in the UI. It does use Cookies though...
 
 ## Cookie Banner Web Component
 

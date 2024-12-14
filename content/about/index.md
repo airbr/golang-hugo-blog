@@ -1,11 +1,11 @@
 ---
 title: About Morgan Murrah
-date: 2024-11-26 12:00:00
+date: 2024-12-14 12:00:00
 ---
 
 ![Photo of Morgan Murrah](/headshot.png)
 
-👋 Hey there! My name is Beau Morgan Murrah. Morgan is my preferred name. I am an [American New Zealander](https://en.wikipedia.org/wiki/American_New_Zealanders) living in the USA. I am happily married and steadily employed. 
+👋 Hey there! My name is Beau Morgan Murrah. 
 
 I like reading, learning and working on interesting projects. My email is below!
 
@@ -42,8 +42,8 @@ Full-time remote developer working on a team of developers and support staff. To
   {{< /rawhtml >}} -->
 
 # Undergraduate Degrees
-* [LLB -- Bachelor of Laws -- Otago University, Dunedin, New Zealand](https://www.otago.ac.nz/courses/qualifications/llb) -- [2013](https://www.odt.co.nz/news/dunedin/university-otago-graduands-december-14-2013)
-* [BA -- Bachelor of Arts -- Major: Classics, Minor: English  -- Otago University, Dunedin, New Zealand](https://www.otago.ac.nz/courses/subjects/clas) -- [2013](https://www.odt.co.nz/news/dunedin/university-otago-graduation-17-august-2013-%E2%80%93-3pm-ceremony)
+* [LLB -- Bachelor of Laws -- Otago University, Dunedin, New Zealand](https://www.otago.ac.nz/courses/qualifications/llb) -- [2013 Ceremony in Otago Daily Times](https://www.odt.co.nz/news/dunedin/university-otago-graduands-december-14-2013)
+* [BA -- Bachelor of Arts -- Major: Classics, Minor: English  -- Otago University, Dunedin, New Zealand](https://www.otago.ac.nz/courses/subjects/clas) -- [2013 Ceremony in Otago Daily Times](https://www.odt.co.nz/news/dunedin/university-otago-graduation-17-august-2013-%E2%80%93-3pm-ceremony)
 
 # Certificates & Certifications
 
@@ -65,7 +65,7 @@ Full-time remote developer working on a team of developers and support staff. To
   * Presentation given to Bellingham Codes in 2024
 * [MDN Web Docs glossary contribution](https://github.com/mdn/content/pull/24346#issuecomment-1493051463)
 * [WebPageTest documentation fix](https://github.com/WPO-Foundation/webpagetest-docs/pull/81)
-* [OpenLaw New Zealand -- JavaScript coding volunteer 2020](https://www.openlaw.nz/)
+<!-- * [OpenLaw New Zealand -- JavaScript coding volunteer 2020](https://www.openlaw.nz/) -->
 * [Award winning hackathon team: GovHack 2015](https://www.odt.co.nz/news/dunedin/dunedin-website-team-wins-nationwide-competition)
 
 <!-- # Conferences 
