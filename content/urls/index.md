@@ -1,5 +1,5 @@
 ---
-title: The web's core power is the hyperlink
+title: The Web's core power is the hyperlink
 date: 2024-11-27 12:00:00
 tags: 
    - web
