@@ -40,7 +40,10 @@ The following test will give real user data if your website is included in the C
 
 * [Pagespeed Insights - https://pagespeed.web.dev/](https://pagespeed.web.dev/)
 
+You can get RUM from multiple providers if you link up a script. I have tried three before:
 
-### Next: Performance Monitoring, but first, run some tests!
+* SpeedCurve by SpeedCurve
+* RUMvision by RUMvision
+* mPulse by Akamai
 
-As of this update, this website has been getting about 100 views a day. I plan to produce a report about comparing the two. 
+All are excellent, I will write a blog post sometime about the differences.
