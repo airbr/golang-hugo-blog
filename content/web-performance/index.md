@@ -40,10 +40,10 @@ The following test will give real user data if your website is included in the C
 
 * [Pagespeed Insights - https://pagespeed.web.dev/](https://pagespeed.web.dev/)
 
-You can get RUM from multiple providers if you link up a script. I have tried three before:
+You can get RUM from multiple providers if you link up a script from them. I have tried three different services before as a trial user:
 
 * SpeedCurve by SpeedCurve
 * RUMvision by RUMvision
 * mPulse by Akamai
 
-All are excellent, I will write a blog post sometime about the differences.
+All are excellent, just have different optimal use cases. I will write a blog post sometime about the differences I noticed.
