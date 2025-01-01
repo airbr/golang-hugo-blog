@@ -1,5 +1,5 @@
 ---
-title: "Web Technology: Have a Happy New Year!"
+title: "Web Technology: 2025 curated edition!"
 
 description: "a website by Morgan Murrah"
 # 1. To ensure Netlify triggers a build on our exampleSite instance, we need to change a file in the exampleSite directory.
