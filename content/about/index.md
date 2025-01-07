@@ -54,11 +54,11 @@ Full-time remote developer working on a team of developers and support staff. To
 
 # Open Source Contributions
 
-* [WSG v1.0-D2](https://github.com/w3c/sustyweb/releases/tag/v1.0-D2)
-* [WSG v1.0-D3](https://github.com/w3c/sustyweb/releases/tag/v1.0-D3)
-* [WSG v1.0-D4](https://github.com/w3c/sustyweb/releases/tag/v1.0-D4)
-* [WSG v1.0-D5](https://github.com/w3c/sustyweb/releases/tag/v1.0-D5)
-* [WSG v1.0-D6](https://github.com/w3c/sustyweb/releases/tag/v1.0-D6)
+* [Web Sustainability Guidelines v1.0-D2](https://github.com/w3c/sustyweb/releases/tag/v1.0-D2)
+* [Web Sustainability Guidelines v1.0-D3](https://github.com/w3c/sustyweb/releases/tag/v1.0-D3)
+* [Web Sustainability Guidelines v1.0-D4](https://github.com/w3c/sustyweb/releases/tag/v1.0-D4)
+* [Web Sustainability Guidelines v1.0-D5](https://github.com/w3c/sustyweb/releases/tag/v1.0-D5)
+* [Web Sustainability Guidelines v1.0-D6](https://github.com/w3c/sustyweb/releases/tag/v1.0-D6)
 
 ---
 <!-- * [Web Technology: Web Components, a look at the Apple Pay Button example](/posts/web-components-presentation-2024/)
