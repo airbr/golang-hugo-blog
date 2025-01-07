@@ -68,15 +68,3 @@ other = "Here are pages tagged with the name “{{ .Title }}”"
   weight = 3
   [menu.main.params]
     class = 'highlight-menu-item'
-[[menu.main]]
-  identifier = 'web-performance'
-  name = 'web performance'
-  pre = "<i class='fa fa-heart'></i>"
-  url = '/web-performance/'
-  weight = 4
-[[menu.main]]
-  identifier = 'urls'
-  name = 'and hyperlinks'
-  pre = "<i class='fa fa-heart'></i>"
-  url = '/urls/'
-  weight = 5

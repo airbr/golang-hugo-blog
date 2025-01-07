@@ -61,12 +61,12 @@ Full-time remote developer working on a team of developers and support staff. To
 * [WSG v1.0-D6](https://github.com/w3c/sustyweb/releases/tag/v1.0-D6)
 
 ---
-* [Web Technology: Web Components, a look at the Apple Pay Button example](/posts/web-components-presentation-2024/)
-  * Presentation given to Bellingham Codes in 2024
-* [MDN Web Docs glossary contribution](https://github.com/mdn/content/pull/24346#issuecomment-1493051463)
+<!-- * [Web Technology: Web Components, a look at the Apple Pay Button example](/posts/web-components-presentation-2024/)
+  * Presentation given to Bellingham Codes in 2024 -->
+<!-- * [MDN Web Docs glossary contribution](https://github.com/mdn/content/pull/24346#issuecomment-1493051463) -->
 <!-- * [WebPageTest documentation fix](https://github.com/WPO-Foundation/webpagetest-docs/pull/81) -->
 <!-- * [OpenLaw New Zealand -- JavaScript coding volunteer 2020](https://www.openlaw.nz/) -->
-* [Award winning hackathon team: GovHack 2015](https://www.odt.co.nz/news/dunedin/dunedin-website-team-wins-nationwide-competition)
+<!-- * [Award winning hackathon team: GovHack 2015](https://www.odt.co.nz/news/dunedin/dunedin-website-team-wins-nationwide-competition) -->
 
 <!-- # Conferences 
 
