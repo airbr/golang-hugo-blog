@@ -5,7 +5,7 @@ theme = 'ananke'
 show_reading_time = true
 features = ["posts", "shortcodes", "related content"]
 
-Paginate = 9 # this is set low for demonstrating with dummy content. Set to a higher number
+pagination.pagerSize = 9 # this is set low for demonstrating with dummy content. Set to a higher number
 
 enableRobotsTXT = true
 
@@ -65,6 +65,22 @@ other = "Here are pages tagged with the name “{{ .Title }}”"
   name = 'about'
   pre = "<i class='fa fa-heart'></i>"
   url = '/about/'
+  weight = 3
+  [menu.main.params]
+    class = 'highlight-menu-item'
+[[menu.main]]
+  identifier = 'GitHub'
+  name = 'GitHub'
+  pre = "<i class='fa fa-heart'></i>"
+  url = 'https://github.com/airbr'
+  weight = 3
+  [menu.main.params]
+    class = 'highlight-menu-item'
+[[menu.main]]
+  identifier = 'RSS'
+  name = 'RSS'
+  pre = "<i class='fa fa-heart'></i>"
+  url = '/index.xml'
   weight = 3
   [menu.main.params]
     class = 'highlight-menu-item'
