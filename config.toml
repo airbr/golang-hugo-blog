@@ -5,8 +5,6 @@ theme = 'ananke'
 show_reading_time = true
 features = ["posts", "shortcodes", "related content"]
 
-pagination.pagerSize = 9 # this is set low for demonstrating with dummy content. Set to a higher number
-
 enableRobotsTXT = true
 
 [taxonomyPageList]
